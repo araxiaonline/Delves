@@ -23,8 +23,8 @@ Here is a list of Enemies, their type (Mob or Boss), and their entry ID:
 | Old Ironforge  | Dark Iron Marksman     | 600608   | Mob   |
 | Old Ironforge  | Dark Iron Sentry       | 600609   | Mob   |
 | Old Ironforge  | Dark Iron Lookout      | 600610   | Mob   |
-| Old Ironforge  | Ehrirmos Coldrock      | 600611   | Boss  |
-| Old Ironforge  | Rirruhm Brightfury     | 600612   | Boss  |
+| **Old Ironforge**  | **Ehrirmos Coldrock**      | **600611**   | **Boss**  |
+| **Old Ironforge**  | **Rirruhm Brightfury**     | **600612**   | **Boss**  |
 | Sandfury Delve | Sandfury Axe Thrower   | 600613   | Mob   |
 | Sandfury Delve | Sandfury Firecaller    | 600614   | Mob   |
 | Sandfury Delve | Sandfury Shadowcaster | 600615   | Mob   |
@@ -33,9 +33,10 @@ Here is a list of Enemies, their type (Mob or Boss), and their entry ID:
 | Sandfury Delve | Sandfury Executioner   | 600618   | Mob   |
 | Sandfury Delve | Sandfury Plague Spreader| 600619  | Mob   |
 | Sandfury Delve | Sandfury Shadowhunter | 600620   | Mob   |
-| Sandfury Delve | Souse San Rhazon       | 600621   | Boss  |
-| Sandfury Delve | Chief Runetusk         | 600623   | Boss  |
-| Sandfury Delve | Xantosh                | 600622   | Boss  |
+| **Sandfury Delve** | **Souse San Rhazon**       | **600621**   | **Boss**  |
+| **Sandfury Delve** | **Chief Runetusk**         | **600623**   | **Boss**  |
+| **Sandfury Delve** | **Xantosh**                | **600622**   | **Boss**  |
+
 
 
 
