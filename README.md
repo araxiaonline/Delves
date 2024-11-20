@@ -6,6 +6,7 @@
 |------------------|----------------------------------------------------|---------|----------------------------------------|
 | Old Ironforge    | X: -4775.9087 Y: -966.2051 Z: 399.0429            | 0       | `.go xyz -4775.9087 -966.2051 399.0429 0` |
 | Sandfury Delve   | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` |
+| Elwynn Falls     | X: -8322 Y: -340 Z: 140                           | 0       | `.go xyz -8322 -340 145 0` |
 
 ---
 
@@ -39,6 +40,18 @@ Here is a list of enemies, their types (Mob or Boss), and their entry IDs:
 | **Sandfury Delve**| **Souse San Rhazon**   | **600621**   | **Boss** |
 | **Sandfury Delve**| **Chief Runetusk**     | **600623**   | **Boss** |
 | **Sandfury Delve**| **Xantosh**            | **600622**   | **Boss** |
+| Elwynn Falls     | Darkcrest Taskmaster    | 600624       | Mob      |
+| Elwynn Falls     | Darkcrest Siren         | 600625       | Mob      |
+| Elwynn Falls     | Bloodscale Wavecaller   | 600626       | Mob      |
+| Elwynn Falls     | Darkcrest Sorceress     | 600627       | Mob      |
+| Elwynn Falls     | Darkcrest Sentry        | 600628       | Mob      |
+| Elwynn Falls     | Murloc Tidecaller       | 600629       | Mob      |
+| Elwynn Falls     | Murloc Oracle           | 600630       | Mob      |
+| Elwynn Falls     | Murloc Hunter           | 600631       | Mob      |
+| Elwynn Falls     | Coilfang Water Elemental| 600632       | Mob      |
+| **Elwynn Falls** | **Lord Mwargadon**      | **600633**   | **Boss** |
+| **Elwynn Falls** | **Gurlgles**            | **600634**   | **Boss** |
+| **Elwynn Falls** | **Aguaspawn**           | **600635**   | **Boss** |
 
 ---
 
