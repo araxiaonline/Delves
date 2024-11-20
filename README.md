@@ -37,6 +37,21 @@ Here is a list of Enemies, their type (Mob or Boss), and their entry ID:
 | **Sandfury Delve** | **Chief Runetusk**         | **600623**   | **Boss**  |
 | **Sandfury Delve** | **Xantosh**                | **600622**   | **Boss**  |
 
+## Game Objects List
+
+Here is a list of Game Objects,name, and their entry ID:
+
+
+| Location       | GameObject Name        | ID     |
+|----------------|------------------------|--------|
+| Sandfury Delve | GameObject 1799        | 1799   |
+| Sandfury Delve | GameObject 202886      | 202886 |
+| Sandfury Delve | GameObject 3659        | 3659   |
+| Sandfury Delve | GameObject 3695        | 3695   |
+| Sandfury Delve | GameObject 185167      | 185167 |
+| Sandfury Delve | GameObject 186250      | 186250 |
+| Sandfury Delve | GameObject 20977       | 20977  |
+
 
 
 
