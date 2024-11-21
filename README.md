@@ -22,7 +22,7 @@ Here is a list of enemies, their types (Mob or Boss), and their entry IDs:
 |------------------|-------------------------|--------------|----------|
 | **Old Ironforge**| **Ehrirmos Coldrock**   | **600611**   | **Boss** |
 | **Old Ironforge**| **Rirruhm Brightfury**  | **600612**   | **Boss** |
-|||||
+| #################| ####################### | ############ | ######## |
 | **Sandfury Delve**| Sandfury Axe Thrower    | 600613       | Mob      |
 | **Sandfury Delve**| Sandfury Firecaller     | 600614       | Mob      |
 | **Sandfury Delve**| Sandfury Shadowcaster   | 600615       | Mob      |
