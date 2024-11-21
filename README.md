@@ -22,7 +22,7 @@ Here is a list of enemies, their types (Mob or Boss), and their entry IDs:
 |------------------|-------------------------|--------------|----------|
 | **Old Ironforge**| **Ehrirmos Coldrock**   | **600611**   | **Boss** |
 | **Old Ironforge**| **Rirruhm Brightfury**  | **600612**   | **Boss** |
-<hr>
+|||||
 | **Sandfury Delve**| Sandfury Axe Thrower    | 600613       | Mob      |
 | **Sandfury Delve**| Sandfury Firecaller     | 600614       | Mob      |
 | **Sandfury Delve**| Sandfury Shadowcaster   | 600615       | Mob      |
@@ -34,7 +34,7 @@ Here is a list of enemies, their types (Mob or Boss), and their entry IDs:
 | **Sandfury Delve**| **Souse San Rhazon**    | **600621**   | **Boss** |
 | **Sandfury Delve**| **Chief Runetusk**      | **600623**   | **Boss** |
 | **Sandfury Delve**| **Xantosh**             | **600622**   | **Boss** |
-<hr>
+|||||
 | **Elwynn Falls** | Darkcrest Taskmaster    | 600624       | Mob      |
 | **Elwynn Falls** | Darkcrest Siren         | 600625       | Mob      |
 | **Elwynn Falls** | Bloodscale Wavecaller   | 600626       | Mob      |
