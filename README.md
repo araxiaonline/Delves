@@ -1,4 +1,6 @@
 # **Single Player Delves for Araxia Online**
+In Araxia Online, Delves are exciting, action-packed areas where players can dive into dangerous, monster-filled dungeons, ancient ruins, and hostile environments. These delves are designed for both solo and group play, offering intense combat with a variety of enemies and challenging bosses. Players will face off against increasingly tough foes, collect valuable loot, and experience fast-paced gameplay in unique settings
+
 
 ## **Delve Locations**
 
