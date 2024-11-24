@@ -53,8 +53,8 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 | Sandfury Plague Spreader| 600619       | Mob      |
 | Sandfury Shadowhunter   | 600620       | Mob      |
 | **Souse San Rhazon**    | **600621**   | **Boss** |
-| **Chief Runetusk**      | **600623**   | **Boss** |
 | **Xantosh**             | **600622**   | **Boss** |
+| **Chief Runetusk**      | **600623**   | **Boss** |
 
 ---
 
