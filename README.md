@@ -77,6 +77,20 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 
 ---
 
+### **Blackchar Cave**
+
+| **Enemy**              | **Entry ID** | **Type** |
+|------------------------|--------------|----------|
+| **Favargair Troll-keeper** | **600636**   | **Boss** |
+| Hillmen Defender       | 600637       | Mob      |
+| Rock-troll Brawler     | 600638       | Mob      |
+| Rock-troll Flesheater  | 600639       | Mob      |
+| Rock-troll Hurler      | 600640       | Mob      |
+| Rock-troll Lobber      | 600641       | Mob      |
+| Rock-troll Wildarm     | 600642       | Mob      |
+
+---
+
 ## **Game Objects List**
 
 Here is a list of Game Objects, their names, and their entry IDs:
