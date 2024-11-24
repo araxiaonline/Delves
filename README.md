@@ -81,13 +81,13 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 
 | **Enemy**              | **Entry ID** | **Type** |
 |------------------------|--------------|----------|
-| **Favargair Troll-keeper** | **600636**   | **Boss** |
+| **Favargair Ogre-Keeper** | **600636**   | **Boss** |
 | Hillmen Defender       | 600637       | Mob      |
-| Rock-troll Brawler     | 600638       | Mob      |
-| Rock-troll Flesheater  | 600639       | Mob      |
-| Rock-troll Hurler      | 600640       | Mob      |
-| Rock-troll Lobber      | 600641       | Mob      |
-| Rock-troll Wildarm     | 600642       | Mob      |
+| Rock-Ogre Brawler     | 600638       | Mob      |
+| Rock-Ogre Flesheater  | 600639       | Mob      |
+| Rock-Ogre Hurler      | 600640       | Mob      |
+| Rock-Ogre Lobber      | 600641       | Mob      |
+| Rock-Ogre Wildarm     | 600642       | Mob      |
 
 ---
 
