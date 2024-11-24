@@ -119,8 +119,6 @@ Here is a list of Game Objects, their names, and their entry IDs:
 | Sandfury Delve       | Food Crate               | 3695     |
 | Sandfury Delve       | Troll Skull Pile         | 185167   |
 | Sandfury Delve       | Beer Wagon               | 186250   |
-| Sandfury Delve       | Pirate Flag              | 187083   |
-| Sandfury Delve       | Free Standing Torch      | 180043   |
 | Quel'Thalas Island   | Beer Wagon               | 186250   |
 | Quel'Thalas Island   | Pirate Flag              | 187083   |
 | Quel'Thalas Island   | Free Standing Torch      | 180043   |
