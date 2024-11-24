@@ -12,6 +12,7 @@
 | Sandfury Delve   | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` | 82-84    |
 | Elwynn Falls     | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`            | 83       |
 | Blackchar Cave   | X: -7308.619 Y: -755.1495 Z: 300.551              | 0       | `.go xyz -7308.619 -755.1495 300.551 0` | 82-84    |
+| Quel'Thalas Island | X: 4243.6436 Y: -2684.3354 Z: 6.3232946          | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85    |
 
 
 ---
@@ -89,6 +90,20 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 | Rock-Ogre Hurler      | 600640       | Mob      |
 | Rock-Ogre Lobber      | 600641       | Mob      |
 | Rock-Ogre Wildarm     | 600642       | Mob      |
+
+---
+
+### **Bloodsail Locations**
+
+| **Enemy**               | **Entry ID** | **Type** |
+|-------------------------|--------------|----------|
+| Bloodsail Raider        | 600643       | Mob      |
+| Bloodsail Swashbuckler  | 600644       | Mob      |
+| Bloodsail Warlock       | 600645       | Mob      |
+| Bloodsail Sea Dog       | 600646       | Mob      |
+| Bloodsail Elder Magus   | 600647       | Mob      |
+| **Fleet Master Skaldron** | **600648**   | **Boss** |
+| **Lithianawan**         | **600649**   | **Boss** |
 
 ---
 
