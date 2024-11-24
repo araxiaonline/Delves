@@ -6,11 +6,13 @@
 
 ## **Delve Locations**
 
-| **Name**         | **Coordinates**                                    | **Map** | **Macro**                              |
-|------------------|----------------------------------------------------|---------|----------------------------------------|
-| Old Ironforge    | X: -4775.9087 Y: -966.2051 Z: 399.0429            | 0       | `.go xyz -4775.9087 -966.2051 399.0429 0` |
-| Sandfury Delve   | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` |
-| Elwynn Falls     | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0` |
+| **Name**         | **Coordinates**                                    | **Map** | **Macro**                              | **Level** |
+|------------------|----------------------------------------------------|---------|----------------------------------------|----------|
+| Old Ironforge    | X: -4775.9087 Y: -966.2051 Z: 399.0429            | 0       | `.go xyz -4775.9087 -966.2051 399.0429 0` | 82-84    |
+| Sandfury Delve   | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` | 82-84    |
+| Elwynn Falls     | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`            | 83       |
+| Blackchar Cave   | X: -7308.619 Y: -755.1495 Z: 300.551              | 0       | `.go xyz -7308.619 -755.1495 300.551 0` | 82-84    |
+
 
 ---
 
@@ -73,6 +75,20 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 | **Gurlgles**            | **600634**   | **Boss** |
 | **Aguaspawn**           | **600635**   | **Boss** |
 
+
+---
+
+### **Blackchar Cave**
+
+| **Enemy**              | **Entry ID** | **Type** |
+|------------------------|--------------|----------|
+| **Favargair Ogre-Keeper** | **600636**   | **Boss** |
+| Hillmen Defender       | 600637       | Mob      |
+| Rock-Ogre Brawler     | 600638       | Mob      |
+| Rock-Ogre Flesheater  | 600639       | Mob      |
+| Rock-Ogre Hurler      | 600640       | Mob      |
+| Rock-Ogre Lobber      | 600641       | Mob      |
+| Rock-Ogre Wildarm     | 600642       | Mob      |
 
 ---
 
