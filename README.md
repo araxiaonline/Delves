@@ -94,7 +94,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 
 ---
 
-### **Bloodsail Locations**
+### **Quel'Thalas Island**
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
@@ -105,6 +105,20 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 | Bloodsail Elder Magus   | 600647       | Mob      |
 | **Fleet Master Skaldron** | **600648**   | **Boss** |
 | **Lithianawan**         | **600649**   | **Boss** |
+
+---
+
+### **Newman's Landing**
+
+| **Enemy**               | **Entry ID** | **Type** |
+|-------------------------|--------------|----------|
+| Deadwood Warrior        | 600650       | Mob      |
+| Deadwood Gardener       | 600651       | Mob      |
+| Deadwood Pathfinder     | 600652       | Mob      |
+| Deadwood Avenger        | 600653       | Mob      |
+| Deadwood Shaman         | 600654       | Mob      |
+| **Chieftain Coldpaw**  | **600655**   | **Boss** |
+| **Overlord Rigto**        | **600656**   | **Boss** |
 
 ---
 
