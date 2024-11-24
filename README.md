@@ -111,16 +111,20 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 
 Here is a list of Game Objects, their names, and their entry IDs:
 
-| **Location**     | **GameObject Name**      | **ID**   |
-|------------------|--------------------------|----------|
-| Sandfury Delve   | Campfire                 | 1799     |
-| Sandfury Delve   | Sen'jin Tent             | 202886   |
-| Sandfury Delve   | Melon Juice Barrel       | 3659     |
-| Sandfury Delve   | Food Crate               | 3695     |
-| Sandfury Delve   | Troll Skull Pile         | 185167   |
-| Sandfury Delve   | Beer Wagon               | 186250   |
-| Sandfury Delve   | Troll Bonfire            | 20977    |
----
+| **Location**         | **GameObject Name**      | **ID**   |
+|----------------------|--------------------------|----------|
+| Sandfury Delve       | Campfire                 | 1799     |
+| Sandfury Delve       | Sen'jin Tent             | 202886   |
+| Sandfury Delve       | Melon Juice Barrel       | 3659     |
+| Sandfury Delve       | Food Crate               | 3695     |
+| Sandfury Delve       | Troll Skull Pile         | 185167   |
+| Sandfury Delve       | Beer Wagon               | 186250   |
+| Sandfury Delve       | Pirate Flag              | 187083   |
+| Sandfury Delve       | Free Standing Torch      | 180043   |
+| Quel'Thalas Island   | Beer Wagon               | 186250   |
+| Quel'Thalas Island   | Pirate Flag              | 187083   |
+| Quel'Thalas Island   | Free Standing Torch      | 180043   |
+
 
 
 
