@@ -124,6 +124,21 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 
 ---
 
+### **Stonetalon Ruins**
+
+| **Enemy**               | **Entry ID** | **Type** |
+|-------------------------|--------------|----------|
+| Venture Co. Shredder    | 600657       | Mob      |
+| Venture Co. Taskmaster  | 600658       | Mob      |
+| Venture Co. Ruffian     | 600659       | Mob      |
+| Venture Co. Enforcer    | 600660       | Mob      |
+| Venture Co. Tinkerer    | 600661       | Mob      |
+| **Nessie**              | **600662**   | **Boss** |
+| **Ruin Smasher X-98**   | **600663**   | **Boss** |
+| **Foreman Snivey**      | **600664**   | **Boss** |
+
+---
+
 ## **Game Objects List**
 
 Here is a list of Game Objects, their names, and their entry IDs:
