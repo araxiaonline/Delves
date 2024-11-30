@@ -133,7 +133,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Stonetalon Ruins**
-> *In the crumbling Stonetalon Ruins, the Venture Co. has set up camp, led by the merciless Foreman Snivey and the mechanical monstrosities Ruin Smasher X-98 and Nessie. Shredders, Taskmasters, and Enforcers swarm the area, eager to strip the ruins of their treasures. The once sacred ground now echoes with the hum of machines and the cries of those who dare resist.*
+> *In the crumbling Stonetalon Ruins, the Venture Co. has set up camp, led by the merciless Foreman Snivey and the mechanical monstrosity Ruin Smasher X-98. Shredders, Taskmasters, and Enforcers swarm the area, eager to strip the ruins of their treasures. The once sacred ground now echoes with the hum of machines and the cries of those who dare resist.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
