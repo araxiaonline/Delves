@@ -48,6 +48,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Sandfury Delve**
+> *Deep within the desert, the Sandfury trolls, led by Souse San Rhazon and Xantosh, practice forbidden magics. Their ranks are filled with Axe Throwers, Firecallers, and Shadowcasters, all bound to dark purposes. The air is thick with plague as they seek to awaken ancient powers beneath the sand. Only the brave can face Chief Runetusk and his bloodthirsty kin to stop their rise.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
@@ -66,6 +67,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Elwynn Falls**
+> *At Elwynn Falls, a deadly alliance of Naga and Murlocs, led by Lord Mwargadon and Gurlgles, threatens the land. Darkcrest Taskmasters and Sorceresses command their forces, while Murloc Tidecallers and Hunters wreak havoc on the shores. The falls are plagued by Coilfang Elementals, and a dark power stirs beneath the waters.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
@@ -86,6 +88,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Blackchar Cave**
+> *Deep within Blackchar Cave, the brutish Favargair Ogre-Keeper reigns over his savage army of Rock-Ogres. Hillmen Defenders guard the entrance, while Brawlers, Flesheaters, and Hurlers lie in wait, ready to crush any intruders. The dark cave echoes with the sound of crashing stone as these monstrous creatures prepare for battle.*
 
 | **Enemy**              | **Entry ID** | **Type** |
 |------------------------|--------------|----------|
@@ -100,6 +103,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Quel'Thalas Island**
+> *On Quel'Thalas Island, the Bloodsail pirates, led by Fleet Master Skaldron and the cunning Lithianawan, have claimed the shores. Their crew, from Swashbucklers to Warlocks, terrorize the seas with dark magic and ruthless tactics. The island is a haven for Sea Dogs and Elders of the Bloodsail, who seek to plunder the ancient secrets hidden within.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
@@ -114,6 +118,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Newman's Landing**
+> *At Newman's Landing, the Deadwood tribe, led by Chieftain Coldpaw and Overlord Rigto, stands ready to defend their cursed land. Warriors, Pathfinders, and Shamans gather, while Avenger's thirst for vengeance echoes through the woods. The once peaceful area now teems with malevolent forces, as the Deadwood seek to expand their dark influence.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
@@ -128,6 +133,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Stonetalon Ruins**
+> *In the crumbling Stonetalon Ruins, the Venture Co. has set up camp, led by the merciless Foreman Snivey and the mechanical monstrosities Ruin Smasher X-98 and Nessie. Shredders, Taskmasters, and Enforcers swarm the area, eager to strip the ruins of their treasures. The once sacred ground now echoes with the hum of machines and the cries of those who dare resist.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
@@ -143,6 +149,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Altar of Storms**
+> *At the Altar of Storms, dark forces gather under the command of Lord Zul'etekk and Rugoldt The Corrupt. Felhounds, Terrorfiends, and Eredar Sorcerers twist the air with dark magic, while Wrathguards and Soul-Eaters guard the ancient site. The altar, long a source of forbidden power, hums with ominous energy as these demons seek to unleash chaos upon the world.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
