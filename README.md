@@ -27,7 +27,7 @@
 Below is a comprehensive list of enemies, their types (Mob or Boss), and their entry IDs:
 
 ### **Old Ironforge**
-> *Beneath Old Ironforge, the Dark Iron dwarves, led by Ehrirmos Coldrock and Rirruhm Brightfury, have returned to reclaim the ruins. With an army of Taskmasters, Raiders, and Shadowcasters, they seek to destroy Ironforge’s legacy. The tunnels are alive with rifle fire and explosions as they dig deeper into forgotten secrets. Only the bravest adventurers can stand against their relentless onslaught.*
+> *Beneath Old Ironforge, the Dark Iron dwarves, led by Ehrirmos Coldrock and Rirruhm Brightfury, have returned to reclaim the ruins. With an army of Taskmasters, Raiders, and Shadowcasters, they seek to destroy Ironforge’s legacy. The tunnels are alive with rifle fire and explosions as they dig deeper into forgotten secrets.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
@@ -48,7 +48,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Sandfury Delve**
-> *Deep within the desert, the Sandfury trolls, led by Souse San Rhazon and Xantosh, practice forbidden magics. Their ranks are filled with Axe Throwers, Firecallers, and Shadowcasters, all bound to dark purposes. The air is thick with plague as they seek to awaken ancient powers beneath the sand. Only the brave can face Chief Runetusk and his bloodthirsty kin to stop their rise.*
+> *Deep within the desert, the Sandfury trolls, led by Souse San Rhazon and Xantosh, practice forbidden magics. Their ranks are filled with Axe Throwers, Firecallers, and Shadowcasters, all bound to dark purposes. The air is thick with plague as they seek to awaken ancient powers beneath the sand.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
