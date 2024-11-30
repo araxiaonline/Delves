@@ -27,6 +27,7 @@
 Below is a comprehensive list of enemies, their types (Mob or Boss), and their entry IDs:
 
 ### **Old Ironforge**
+> *Beneath Old Ironforge, the Dark Iron dwarves, led by Ehrirmos Coldrock and Rirruhm Brightfury, have returned to reclaim the ruins. With an army of Taskmasters, Raiders, and Shadowcasters, they seek to destroy Ironforge’s legacy. The tunnels are alive with rifle fire and explosions as they dig deeper into forgotten secrets. Only the bravest adventurers can stand against their relentless onslaught.*
 
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
