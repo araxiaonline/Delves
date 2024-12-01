@@ -166,6 +166,22 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 
 ---
 
+### **Forgotten Gnome Camp**
+
+| **Enemy**               | **Entry ID** | **Type** |
+|-------------------------|--------------|----------|
+| Rockjaw Flameweaver     | 600673       | Mob      |
+| Rockjaw Seer            | 600674       | Mob      |
+| Rockjaw Backbreaker     | 600675       | Mob      |
+| Rockjaw Shaman          | 600676       | Mob      |
+| Rockjaw Raider          | 600677       | Mob      |
+| Rockjaw Brawler         | 600678       | Mob      |
+| **Grurvuch**            | **600679**   | **Boss** |
+| **Scervig**             | **600680**   | **Boss** |
+
+---
+
+
 ## **Game Objects List**
 
 Here is a list of Game Objects, their names, and their entry IDs:
