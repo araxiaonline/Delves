@@ -167,7 +167,7 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 ---
 
 ### **Forgotten Gnome Camp**
-
+> *The Forgotten Gnome Camp has fallen to the brutal Rockjaw clan, led by the savage Grurvuch and the cunning Scervig. Flameweavers and Shamans channel destructive magic, while Backbreakers and Brawlers crush all who oppose them. Once a place of invention, the camp is now overrun with violence and chaos.*
 | **Enemy**               | **Entry ID** | **Type** |
 |-------------------------|--------------|----------|
 | Rockjaw Flameweaver     | 600673       | Mob      |
