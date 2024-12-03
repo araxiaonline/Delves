@@ -12,10 +12,12 @@
 | Sandfury Delve       | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` | 82-84             |
 | Elwynn Falls         | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`            | 83                |
 | Blackchar Cave       | X: -7308.619 Y: -755.1495 Z: 300.551              | 0       | `.go xyz -7308.619 -755.1495 300.551 0` | 82-84             |
-| Quel'Thalas Island   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946          | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85             |
+| Quel'Thalas Island   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946           | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85             |
 | Newman's Landing     | X: -6339.8486 Y: -862.5663 Z: 397.31238          | 0       | `.go xyz -6339.8486 -862.5663 397.31238 0` | 83-85             |
 | Stonetalon Ruins     | X: 2725.6143 Y: 1951.8698 Z: 290.82837           | 1       | `.go xyz 2725.6143 1951.8698 290.82837 1` | 82-85             |
 | Altar of Storms  | X: -11631.548 Y: -2348.38 Z: 10.088909           | 309     | `.go xyz -11631.548 -2348.38 10.088909 309` | 82-85             |
+| Forgotten Gnome Camp | X: -5920.707 Y: 966.7653 Z: 485.7631                            | 0       | `.go xyz -5920.707 966.7653 485.7631 0`              | 83-85             |
+
 
 
 
@@ -163,6 +165,23 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 | **Rugoldt The Corrupt** | **600672**   | **Boss** |
 
 ---
+
+### **Forgotten Gnome Camp**
+> *The Forgotten Gnome Camp has fallen to the brutal Rockjaw clan, led by the savage Grurvuch and the cunning Scervig. Flameweavers and Shamans channel destructive magic, while Backbreakers and Brawlers crush all who oppose them. Once a place of invention, the camp is now overrun with violence and chaos.*
+
+| **Enemy**               | **Entry ID** | **Type** |
+|-------------------------|--------------|----------|
+| Rockjaw Flameweaver     | 600673       | Mob      |
+| Rockjaw Seer            | 600674       | Mob      |
+| Rockjaw Backbreaker     | 600675       | Mob      |
+| Rockjaw Shaman          | 600676       | Mob      |
+| Rockjaw Raider          | 600677       | Mob      |
+| Rockjaw Brawler         | 600678       | Mob      |
+| **Grurvuch**            | **600679**   | **Boss** |
+| **Scervig**             | **600680**   | **Boss** |
+
+---
+
 
 ## **Game Objects List**
 
