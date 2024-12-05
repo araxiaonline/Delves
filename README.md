@@ -183,6 +183,22 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 
 ---
 
+### **Demon Hunter Cove**  
+> *Within the dark and foreboding Demon Hunter Cove, three leaders—Axlenar, Lorthan, and Prince Sshekj—conspire to unleash chaos upon the world. Surrounded by their loyal Initiates, Supplicants, and Felrage forces, the cove is alive with ritual chants and the clash of weapons as they prepare for war.*
+
+| **Enemy**               | **Entry ID** | **Type** |
+|-------------------------|--------------|----------|
+| Demon Hunter Initiate   | 600685       | Mob      |
+| Demon Hunter Supplicant | 600684       | Mob      |
+| Felrage Demon Hunter    | 600683       | Mob      |
+| Felrage Soothsayer      | 600682       | Mob      |
+| Felrage Defender        | 600681       | Mob      |
+| **Axlenar**             | **600688**   | **Boss** |
+| **Lorthan**             | **600687**   | **Boss** |
+| **Prince Sshekj**       | **600686**   | **Boss** | 
+
+--- 
+
 
 ## **Game Objects List**
 
