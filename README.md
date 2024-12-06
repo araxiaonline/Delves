@@ -5,7 +5,7 @@
 
 ## **Delve Locations**
 
-| **Name**             | **Coordinates**                                    | **Map** | **Macro**                              | **Level {Elite}** |
+| **Name**             | **Coordinates**                                    | **Map ID** | **Macro**                              | **Level {Elite}** |
 |----------------------|----------------------------------------------------|---------|----------------------------------------|-------------------|
 | [Old Ironforge](#old-ironforge)        | X: -4775.9087 Y: -966.2051 Z: 399.0429            | 0       | `.go xyz -4775.9087 -966.2051 399.0429 0` | 82-84             |
 | [Sandfury Delve](#sandfury-delve)      | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` | 82-84             |
@@ -13,11 +13,13 @@
 | [Altar of Storms](#altar-of-storms)     | X: -11631.548 Y: -2348.38 Z: 10.088909            | 309     | `.go xyz -11631.548 -2348.38 10.088909 309` | 82-85             |
 | [Arathi Highlands Farm](#arathi-highlands-farm) | X: -1912.7445 Y: -3917.8374 Z: 105.47413          | 0       | `.go xyz -1912.7445 -3917.8374 105.47413 0` | 82-85             |
 | [Stonetalon Ruins](#stonetalon-ruins)     | X: 2725.6143 Y: 1951.8698 Z: 290.82837           | 1       | `.go xyz 2725.6143 1951.8698 290.82837 1` | 82-85             |
+| [Stonetalon Logging Camp](#stonetalon-logging-camp) | X: 1679.806 Y: 1724.2107 Z: 143.80855           | 1       | `.go xyz 1679.806 1724.2107 143.80855 1` | 82-85             |
 | [Elwynn Falls](#elwynn-falls)         | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`              | 83                |
 | [Quel'Thalas Island](#quelthalas-island)   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946           | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85             |
 | [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5920.707 Y: 966.7653 Z: 485.7631              | 0       | `.go xyz -5920.707 966.7653 485.7631 0`   | 83-85             |
 | [Newman's Landing](#newmans-landing)     | X: -6339.8486 Y: -862.5663 Z: 397.31238          | 0       | `.go xyz -6339.8486 -862.5663 397.31238 0` | 83-85             |
 | [Demon Hunter Cove](#demon-hunter-cove)    | X: 9645.948 Y: -209.67845 Z: 21.60297             | 1       | `.go xyz 9645.948 -209.67845 21.60297 1`  | 83-85             |
+
 
 ---
 
@@ -60,11 +62,6 @@
 | **Souse San Rhazon**    | **600621**   | **Boss** |
 | **Xantosh**             | **600622**   | **Boss** |
 | **Chief Runetusk**      | **600623**   | **Boss** |
-
----
-
-### **Blackchar Cave**
-*(Details for this section can be added later.)*
 
 ---
 
@@ -215,6 +212,20 @@
 
 ---
 
+### **Stonetalon Logging Camp**  
+> *Nestled deep in the forest of Stonetalon Mountains, the logging camp is run by the ruthless Venture Co. who have cut down the natural flora to fuel their operations. Led by Overlord Snivey and Overlord Moosh, these timber thieves use their brute strength and technological creations to force their will on the environment. The camp is filled with savage mobs, all under the command of the overbearing overlords.*
+
+| **Enemy**                | **Entry ID** | **Type** |
+|--------------------------|--------------|----------|
+| Venture Co. Shredder      | 600657       | Mob      |
+| Venture Co. Taskmaster    | 600658       | Mob      |
+| Venture Co. Ruffian       | 600659       | Mob      |
+| Venture Co. Enforcer      | 600660       | Mob      |
+| Venture Co. Tinkerer      | 600661       | Mob      |
+| **Overlord Snivey**       | **600701**   | **Boss** |
+| **Overlord Moosh**        | **600702**   | **Boss** |
+
+---
 
 ## **Game Objects List**
 
@@ -231,7 +242,7 @@ Here is a list of Game Objects, their names, and their entry IDs:
 | Quel'Thalas Island   | Beer Wagon               | 186250   |
 | Quel'Thalas Island   | Pirate Flag              | 187083   |
 | Quel'Thalas Island   | Free Standing Torch      | 180043   |
-
+| **All DELVES**       | **Token Chest**              | **110000**   |
 
 
 
