@@ -242,7 +242,7 @@ Here is a list of Game Objects, their names, and their entry IDs:
 | Quel'Thalas Island   | Beer Wagon               | 186250   |
 | Quel'Thalas Island   | Pirate Flag              | 187083   |
 | Quel'Thalas Island   | Free Standing Torch      | 180043   |
-
+| **All DELVES**       | Token Chest              | 110000   |
 
 
 
