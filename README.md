@@ -3,21 +3,21 @@
 > *In Araxia, Delves are exciting, action-packed areas where players can dive into dangerous, monster-filled dungeons, ancient ruins, and hostile environments. These delves are designed for both solo and group play, offering intense combat with a variety of enemies and challenging bosses. Players will face off against increasingly tough foes, collect valuable loot, and experience fast-paced gameplay in unique settings.*
 
 
-
 ## **Delve Locations**
 
 | **Name**             | **Coordinates**                                    | **Map** | **Macro**                              | **Level {Elite}** |
 |----------------------|----------------------------------------------------|---------|----------------------------------------|-------------------|
 | Old Ironforge        | X: -4775.9087 Y: -966.2051 Z: 399.0429            | 0       | `.go xyz -4775.9087 -966.2051 399.0429 0` | 82-84             |
 | Sandfury Delve       | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` | 82-84             |
-| Elwynn Falls         | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`            | 83                |
 | Blackchar Cave       | X: -7308.619 Y: -755.1495 Z: 300.551              | 0       | `.go xyz -7308.619 -755.1495 300.551 0` | 82-84             |
-| Quel'Thalas Island   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946           | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85             |
-| Newman's Landing     | X: -6339.8486 Y: -862.5663 Z: 397.31238          | 0       | `.go xyz -6339.8486 -862.5663 397.31238 0` | 83-85             |
+| Altar of Storms      | X: -11631.548 Y: -2348.38 Z: 10.088909            | 309     | `.go xyz -11631.548 -2348.38 10.088909 309` | 82-85             |
+| Arathi Highlands Farm | X: -1912.7445 Y: -3917.8374 Z: 105.47413          | 0       | `.go xyz -1912.7445 -3917.8374 105.47413 0` | 82-85             |
 | Stonetalon Ruins     | X: 2725.6143 Y: 1951.8698 Z: 290.82837           | 1       | `.go xyz 2725.6143 1951.8698 290.82837 1` | 82-85             |
-| Altar of Storms  | X: -11631.548 Y: -2348.38 Z: 10.088909           | 309     | `.go xyz -11631.548 -2348.38 10.088909 309` | 82-85             |
-| Forgotten Gnome Camp | X: -5920.707 Y: 966.7653 Z: 485.7631                            | 0       | `.go xyz -5920.707 966.7653 485.7631 0`              | 83-85             |
-| Demon Hunter Cove | X: 9645.948 Y: -209.67845 Z: 21.60297          | 1 | `.go xyz 9645.948 -209.67845 21.60297` | 83-85 |
+| Elwynn Falls         | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`              | 83                |
+| Quel'Thalas Island   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946           | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85             |
+| Forgotten Gnome Camp | X: -5920.707 Y: 966.7653 Z: 485.7631              | 0       | `.go xyz -5920.707 966.7653 485.7631 0`   | 83-85             |
+| Newman's Landing     | X: -6339.8486 Y: -862.5663 Z: 397.31238          | 0       | `.go xyz -6339.8486 -862.5663 397.31238 0` | 83-85             |
+| Demon Hunter Cove    | X: 9645.948 Y: -209.67845 Z: 21.60297             | 1       | `.go xyz 9645.948 -209.67845 21.60297 1`  | 83-85             |
 
 
 
@@ -198,6 +198,26 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 | **Prince Sshekj**       | **600686**   | **Boss** | 
 
 --- 
+
+### **Arathi Highlands Farm**  
+> *Nestled within the desolate expanse of the Arathi Highlands, the farm is overrun by Scourge forces. Here, twisted necromancers and their ghastly creations sow death and decay, preparing for the resurgence of their dark power. Amid the chaos, three powerful figures—Ghubo, Rhulk the Diseased, and Savathûn, The Redeemer—command the corrupted horde, threatening to spread their plague beyond the Highlands.*
+
+| **Enemy**               | **Entry ID** | **Type** |
+|-------------------------|--------------|----------|
+| Scourge Adept           | 600689       | Mob      |
+| Scourge Necromancer     | 600690       | Mob      |
+| Scourge Plaguebringer   | 600691       | Mob      |
+| Scourged Overseer       | 600692       | Mob      |
+| Plagued Ghoul           | 600693       | Mob      |
+| Frenzied Abomination    | 600694       | Mob      |
+| Plaguehound             | 600695       | Mob      |
+| Infected Wildlife       | 600696       | Mob      |
+| Plagued Maggot          | 600697       | Mob      |
+| **Ghubo**               | **600698**   | **Boss** |
+| **Rhulk The Diseased**  | **600699**   | **Boss** |
+| **Savathûn, The Redeemer** | **600700** | **Boss** | 
+
+---
 
 
 ## **Game Objects List**
