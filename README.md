@@ -17,6 +17,7 @@
 | Stonetalon Ruins     | X: 2725.6143 Y: 1951.8698 Z: 290.82837           | 1       | `.go xyz 2725.6143 1951.8698 290.82837 1` | 82-85             |
 | Altar of Storms  | X: -11631.548 Y: -2348.38 Z: 10.088909           | 309     | `.go xyz -11631.548 -2348.38 10.088909 309` | 82-85             |
 | Forgotten Gnome Camp | X: -5920.707 Y: 966.7653 Z: 485.7631                            | 0       | `.go xyz -5920.707 966.7653 485.7631 0`              | 83-85             |
+| Demon Hunter Cove | X: 9645.948 Y: -209.67845 Z: 21.60297          | 1 | `.go xyz 9645.948 -209.67845 21.60297` | 83-85 |
 
 
 
@@ -181,6 +182,22 @@ Below is a comprehensive list of enemies, their types (Mob or Boss), and their e
 | **Scervig**             | **600680**   | **Boss** |
 
 ---
+
+### **Demon Hunter Cove**  
+> *Within the dark and foreboding Demon Hunter Cove, three leaders—Axlenar, Lorthan, and Prince Sshekj—conspire to unleash chaos upon the world. Surrounded by their loyal Initiates, Supplicants, and Felrage forces, the cove is alive with ritual chants and the clash of weapons as they prepare for war.*
+
+| **Enemy**               | **Entry ID** | **Type** |
+|-------------------------|--------------|----------|
+| Demon Hunter Initiate   | 600685       | Mob      |
+| Demon Hunter Supplicant | 600684       | Mob      |
+| Felrage Demon Hunter    | 600683       | Mob      |
+| Felrage Soothsayer      | 600682       | Mob      |
+| Felrage Defender        | 600681       | Mob      |
+| **Axlenar**             | **600688**   | **Boss** |
+| **Lorthan**             | **600687**   | **Boss** |
+| **Prince Sshekj**       | **600686**   | **Boss** | 
+
+--- 
 
 
 ## **Game Objects List**
