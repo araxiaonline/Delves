@@ -80,6 +80,8 @@
 | Murloc Hunter           | 600631       | Mob      |
 | Coilfang Water Elemental| 600632       | Mob      |
 | **Lord Mwargadon**      | **600633**   | **Boss** |
+| **Gurlgles**      | **600634**   | **Boss** |
+| **Aquaspawn**      | **600635**   | **Boss** |
 
 ---
 
