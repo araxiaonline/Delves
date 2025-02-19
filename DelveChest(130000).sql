@@ -6,5 +6,4 @@ INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `IconNa
 DELETE FROM `gameobject_loot_template` WHERE (`Entry` = 110000);
 INSERT INTO `gameobject_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `QuestRequired`, `LootMode`, `GroupId`, `MinCount`, `MaxCount`, `Comment`) VALUES
 (110000, 910001, 0, 50, 0, 1, 0, 1, 2, 'Araxia Token'),
-(110000, 910900, 0, 100, 0, 1, 1, 1, 3, 'Delve Token'),
 (110000, 911000, 0, 25, 0, 1, 0, 1, 3, 'Dice');
