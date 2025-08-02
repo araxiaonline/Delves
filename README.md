@@ -11,7 +11,7 @@
 | [Sandfury Delve](#sandfury-delve)      | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` | 82-84 | 905 |
 | [Blackchar Cave](#blackchar-cave)       | X: -7308.619 Y: -755.1495 Z: 300.551              | 0       | `.go xyz -7308.619 -755.1495 300.551 0` | 82-84 | 904 |
 | [Altar of Storms](#altar-of-storms)     | X: -11631.548 Y: -2348.38 Z: 10.088909            | 309     | `.go xyz -11631.548 -2348.38 10.088909 309` | 82-85             |
-| [Arathi Highlands Farm](#arathi-highlands-farm) | X: -1912.7445 Y: -3917.8374 Z: 105.47413          | 0       | `.go xyz -1912.7445 -3917.8374 105.47413 0` | 82-85             |
+| [Arathi Highlands Farm](#arathi-highlands-farm) | X: -1912.7445 Y: -3917.8374 Z: 105.47413          | 0       | `.go xyz -1912.7445 -3917.8374 105.47413 0` | 82-85 | 906 |
 | [Stonetalon Ruins](#stonetalon-ruins)     | X: 2725.6143 Y: 1951.8698 Z: 290.82837           | 1       | `.go xyz 2725.6143 1951.8698 290.82837 1` | 82-85             | 900 |
 | [Stonetalon Logging Camp](#stonetalon-logging-camp) | X: 1679.806 Y: 1724.2107 Z: 143.80855           | 1       | `.go xyz 1679.806 1724.2107 143.80855 1` | 82-85 | 902 |
 | [Elwynn Falls](#elwynn-falls)         | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`              | 83                |
