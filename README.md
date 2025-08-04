@@ -14,9 +14,9 @@
 | [Arathi Highlands Farm](#arathi-highlands-farm) | X: -1912.7445 Y: -3917.8374 Z: 105.47413          | 0       | `.go xyz -1912.7445 -3917.8374 105.47413 0` | 82-85 | 906 |
 | [Stonetalon Ruins](#stonetalon-ruins)     | X: 2725.6143 Y: 1951.8698 Z: 290.82837           | 1       | `.go xyz 2725.6143 1951.8698 290.82837 1` | 82-85             | 900 |
 | [Stonetalon Logging Camp](#stonetalon-logging-camp) | X: 1679.806 Y: 1724.2107 Z: 143.80855           | 1       | `.go xyz 1679.806 1724.2107 143.80855 1` | 82-85 | 902 |
-| [Elwynn Falls](#elwynn-falls)         | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`              | 83                |
-| [Quel'Thalas Island](#quelthalas-island)   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946           | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85             |
-| [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5920.707 Y: 966.7653 Z: 485.7631              | 0       | `.go xyz -5920.707 966.7653 485.7631 0`   | 83-85             |
+| [Elwynn Falls](#elwynn-falls)         | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`              | 83 | 907 |
+| [Quel'Thalas Island](#quelthalas-island)   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946           | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85 | 908 |
+| [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5920.707 Y: 966.7653 Z: 485.7631              | 0       | `.go xyz -5920.707 966.7653 485.7631 0`   | 83-85 | 909 |
 | [Newman's Landing](#newmans-landing)     | X: -6339.8486 Y: -862.5663 Z: 397.31238          | 0       | `.go xyz -6339.8486 -862.5663 397.31238 0` | 83-85             |
 | [Demon Hunter Cove](#demon-hunter-cove)    | X: 9645.948 Y: -209.67845 Z: 21.60297             | 1       | `.go xyz 9645.948 -209.67845 21.60297 1`  | 83-85 | 901 |
 
