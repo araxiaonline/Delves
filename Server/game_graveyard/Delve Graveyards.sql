@@ -1,6 +1,6 @@
 INSERT INTO `acore_world`.`game_graveyard` (`ID`, `Map`, `x`, `y`, `z`, `Comment`) VALUES
 (5000, 900, 2723.209, 1978.284, 285.9737, 'Stonetalon Ruins GY'),
-(5001, 901, 9948.516, -387.6605, 12.00058, 'Demonyunter Cove GY'),
+(5001, 901, 9948.516, -387.6605, 12.00058, 'Demonhunter Cove GY'),
 (5003, 904, 2504.312, 2591.502, 63.51176, 'Blackchar Cave GY'),
 (5002, 902, 1685.99, 1774.264, 144.7897, 'Stonetalon Logging Camp GY'),
 (5007, 908, 4233.918, -2685.459, 5.032512, 'Quelthalas Island GY'),
