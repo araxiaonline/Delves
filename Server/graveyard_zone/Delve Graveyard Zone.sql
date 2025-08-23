@@ -1,6 +1,6 @@
 INSERT INTO `acore_world`.`graveyard_zone` (`ID`, `GhostZone`, `Faction`, `Comment`) VALUES
 (5000, 6003, 0, 'Stonetalon Ruins GY'),
-(5001, 6004, 0, 'Demonyunter Cove GY'),
+(5001, 6004, 0, 'Demonhunter Cove GY'),
 (5002, 6005, 0, 'Stonetalon Logging Camp GY'),
 (5003, 6006, 0, 'Blackchar Cave GY'),
 (5004, 6007, 0, 'Sandfury Oasis GY'),
