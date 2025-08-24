@@ -5,21 +5,20 @@
 
 ## **Delve Locations**
 
-| **Name**             | **Coordinates**                                    | **Map ID** | **Macro**                              | **Level {Elite}** |  Custom Dungeon Map ID |
-|----------------------|----------------------------------------------------|---------|----------------------------------------|-------------------|-------------------------|
-| [Old Ironforge](#old-ironforge)        | X: -4775.9087 Y: -966.2051 Z: 399.0429            | 0       | `.go xyz -4775.9087 -966.2051 399.0429 0` | 82-84 | 903 |
-| [Sandfury Delve](#sandfury-delve)      | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 0       | `.go xyz -12962.429 -1275.9951 46.183014 0` | 82-84 | 905 |
-| [Blackchar Cave](#blackchar-cave)       | X: -7308.619 Y: -755.1495 Z: 300.551              | 0       | `.go xyz -7308.619 -755.1495 300.551 0` | 82-84 | 904 |
-| [Altar of Storms](#altar-of-storms)     | X: -11631.548 Y: -2348.38 Z: 10.088909            | 309     | `.go xyz -11631.548 -2348.38 10.088909 309` | 82-85 | 911 |
-| [Arathi Highlands Farm](#arathi-highlands-farm) | X: -1912.7445 Y: -3917.8374 Z: 105.47413          | 0       | `.go xyz -1912.7445 -3917.8374 105.47413 0` | 82-85 | 906 |
-| [Stonetalon Ruins](#stonetalon-ruins)     | X: 2725.6143 Y: 1951.8698 Z: 290.82837           | 1       | `.go xyz 2725.6143 1951.8698 290.82837 1` | 82-85             | 900 |
-| [Stonetalon Logging Camp](#stonetalon-logging-camp) | X: 1679.806 Y: 1724.2107 Z: 143.80855           | 1       | `.go xyz 1679.806 1724.2107 143.80855 1` | 82-85 | 902 |
-| [Elwynn Falls](#elwynn-falls)         | X: -8322 Y: -340 Z: 145                           | 0       | `.go xyz -8322 -340 145 0`              | 83 | 907 |
-| [Quel'Thalas Island](#quelthalas-island)   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946           | 0       | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85 | 908 |
-| [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5920.707 Y: 966.7653 Z: 485.7631              | 0       | `.go xyz -5920.707 966.7653 485.7631 0`   | 83-85 | 909 |
-| [Newman's Landing](#newmans-landing)     | X: -6339.8486 Y: -862.5663 Z: 397.31238          | 0       | `.go xyz -6339.8486 -862.5663 397.31238 0` | 83-85 | 910 |
-| [Demon Hunter Cove](#demon-hunter-cove)    | X: 9645.948 Y: -209.67845 Z: 21.60297             | 1       | `.go xyz 9645.948 -209.67845 21.60297 1`  | 83-85 | 901 |
-
+| **Name**             | **Coordinates**                                    | **MAP ID** | **Macro**                              | **Level {Elite}** |
+|----------------------|----------------------------------------------------|------------|----------------------------------------|-------------------|
+| [Old Ironforge](#old-ironforge)        | X: -4775.9087 Y: -966.2051 Z: 399.0429            | 903        | `.go xyz -4775.9087 -966.2051 399.0429 0` | 82-84 |
+| [Sandfury Delve](#sandfury-delve)      | X: -12962.429 Y: -1275.9951 Z: 46.183014          | 905        | `.go xyz -12962.429 -1275.9951 46.183014 0` | 82-84 |
+| [Blackchar Cave](#blackchar-cave)       | X: -7308.619 Y: -755.1495 Z: 300.551              | 904        | `.go xyz -7308.619 -755.1495 300.551 0` | 82-84 |
+| [Altar of Storms](#altar-of-storms)     | X: -11631.548 Y: -2348.38 Z: 10.088909            | 911        | `.go xyz -11631.548 -2348.38 10.088909 309` | 82-85 |
+| [Arathi Highlands Farm](#arathi-highlands-farm) | X: -1912.7445 Y: -3917.8374 Z: 105.47413          | 906        | `.go xyz -1912.7445 -3917.8374 105.47413 0` | 82-85 |
+| [Stonetalon Ruins](#stonetalon-ruins)     | X: 2725.6143 Y: 1951.8698 Z: 290.82837           | 900        | `.go xyz 2725.6143 1951.8698 290.82837 1` | 82-85 |
+| [Stonetalon Logging Camp](#stonetalon-logging-camp) | X: 1679.806 Y: 1724.2107 Z: 143.80855           | 902        | `.go xyz 1679.806 1724.2107 143.80855 1` | 82-85 |
+| [Elwynn Falls](#elwynn-falls)         | X: -8322 Y: -340 Z: 145                           | 907        | `.go xyz -8322 -340 145 0`              | 83 |
+| [Quel'Thalas Island](#quelthalas-island)   | X: 4243.6436 Y: -2684.3354 Z: 6.3232946           | 908        | `.go xyz 4243.6436 -2684.3354 6.3232946 0` | 83-85 |
+| [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5920.707 Y: 966.7653 Z: 485.7631              | 909        | `.go xyz -5920.707 966.7653 485.7631 0`   | 83-85 |
+| [Newman's Landing](#newmans-landing)     | X: -6339.8486 Y: -862.5663 Z: 397.31238          | 910        | `.go xyz -6339.8486 -862.5663 397.31238 0` | 83-85 |
+| [Demon Hunter Cove](#demon-hunter-cove)    | X: 9645.948 Y: -209.67845 Z: 21.60297             | 901        | `.go xyz 9645.948 -209.67845 21.60297 1`  | 83-85 |
 
 ---
 
