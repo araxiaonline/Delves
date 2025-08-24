@@ -8,4 +8,6 @@ INSERT INTO `acore_world`.`graveyard_zone` (`ID`, `GhostZone`, `Faction`, `Comme
 (5006, 6009, 0, 'Elwynnfalls GY'),
 (5007, 6010, 0, 'Quelthalas Island GY'),
 (5008, 6011, 0, 'Forgotten Gnome Camp GY'),
-(5009, 6012, 0, 'Old Ironforge GY');
+(5009, 6012, 0, 'Old Ironforge GY'),
+(5010, 6013, 0, 'Newmans Landing GY'),
+(5009, 6014, 0, 'Altar of Storms GY');
