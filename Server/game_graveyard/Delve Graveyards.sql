@@ -8,6 +8,6 @@ INSERT INTO `acore_world`.`game_graveyard` (`ID`, `Map`, `x`, `y`, `z`, `Comment
 (5005, 906, -1996.719, -4041.042, 3.033362, 'Arathi Farmlands GY'),
 (5006, 907, -8357.601, -341.7997, 146.8458, 'Elwynnfalls GY'),
 (5008, 909, -5929.585, 965.1906, 486.6748, 'Forgotten Gnome Camp GY'),
-(5009, 903, 2610.055, 2829.301, 397.492, 'Newmans Landing GY'),
-(5010, 910, -6380.3, -848.043, 35.44543, 'Old Ironforge GY'),
+(5009, 903, 2610.055, 2829.301, 397.492, 'Old Ironforge GY'),
+(5010, 910, -6380.3, -848.043, 35.44543, 'Newmans Landing GY'),
 (5011, 911, -11632.0654, -2349.73438, 9.686516, 'Altar of Storms GY');
