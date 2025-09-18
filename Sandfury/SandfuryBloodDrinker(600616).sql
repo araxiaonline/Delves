@@ -124,6 +124,8 @@ INSERT INTO `pickpocketing_loot_template` (`Entry`, `Item`, `Reference`, `Chance
 (600616, 7910, 0, 0.2132, 0, 1, 0, 1, 1, 'Sandfury Blood Drinker - Star Ruby'),
 (600616, 16884, 0, 7.9957, 0, 1, 0, 1, 1, 'Sandfury Blood Drinker - Sturdy Junkbox');
 
+
+  
 DELETE FROM `creature` WHERE (`id1` = 600616);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
 (9001090, 600616, 0, 0, 905, 0, 0, 1, 1, 1, -13030.3, -1304.7, 45.122, 5.78549, 300, 10, 0, 38260, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
