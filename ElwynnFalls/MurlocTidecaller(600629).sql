@@ -48,6 +48,8 @@ INSERT INTO `creature_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Q
 INSERT INTO `pickpocketing_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `QuestRequired`, `LootMode`, `GroupId`, `MinCount`, `MaxCount`, `Comment`) VALUES
 (600629, 1210, 0, 10, 0, 1, 0, 1, 1, 'Murloc Tidecaller - Shadowgem');
 
+
+  
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
 (9001158, 600629, 0, 0, 907, 0, 0, 1, 1, 1, -8288.86, -374.619, 140.279, 5.91334, 300, 15, 0, 204072, 42620, 1, 0, 0, 0, '', NULL, 0, NULL),
 (9001159, 600629, 0, 0, 907, 0, 0, 1, 1, 1, -8267.73, -380.33, 140.376, 1.57321, 300, 16, 0, 204072, 42620, 1, 0, 0, 0, '', NULL, 0, NULL),
