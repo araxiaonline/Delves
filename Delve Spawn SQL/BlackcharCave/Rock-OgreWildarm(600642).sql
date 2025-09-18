@@ -46,6 +46,8 @@ INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, 
 (9001222, 600642, 0, 0, 0, 0, 0, 1, 1, 1, -7241.36, -707.714, 288.221, 4.20022, 300, 4, 0, 382602, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
 (9001247, 600642, 0, 0, 0, 0, 0, 1, 1, 1, -7376.94, -691.821, 294.736, 5.53962, 300, 6, 0, 382602, 0, 1, 0, 0, 0, '', NULL, 0, NULL);
 
+
+
 UPDATE `creature_template` SET `AIName` = 'SmartAI' WHERE `entry` = 600642;
 
 DELETE FROM `smart_scripts` WHERE (`source_type` = 0 AND `entryorguid` = 600642);

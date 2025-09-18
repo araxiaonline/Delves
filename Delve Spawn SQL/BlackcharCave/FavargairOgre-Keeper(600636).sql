@@ -47,7 +47,7 @@ INSERT INTO `pickpocketing_loot_template` (`Entry`, `Item`, `Reference`, `Chance
 
 DELETE FROM `creature` WHERE (`id1` = 600636);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
-(9001235, 600636, 0, 0, 0, 0, 0, 1, 1, 1, -7378.71, -631.102, 285.742, 5.39825, 300, 0, 0, 183524, 95080, 0, 0, 0, 0, '', NULL, 0, NULL);
+(9001235, 600636, 0, 0, 904, 0, 0, 1, 1, 1, -7378.71, -631.102, 285.742, 5.39825, 300, 0, 0, 183524, 95080, 0, 0, 0, 0, '', NULL, 0, NULL);
 
 UPDATE `creature_template` SET `AIName` = 'SmartAI' WHERE `entry` = 600636;
 

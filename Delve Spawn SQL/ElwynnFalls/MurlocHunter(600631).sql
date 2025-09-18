@@ -49,10 +49,10 @@ INSERT INTO `pickpocketing_loot_template` (`Entry`, `Item`, `Reference`, `Chance
 
 DELETE FROM `creature` WHERE (`id1` = 600631);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
-(9001161, 600631, 0, 0, 0, 0, 0, 1, 1, 1, -8311.99, -320.921, 140.28, 3.0845, 300, 8, 0, 6376, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
-(9001164, 600631, 0, 0, 0, 0, 0, 1, 1, 1, -8346.89, -259.137, 140.28, 1.08357, 300, 14, 0, 6376, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
-(9001198, 600631, 0, 0, 0, 0, 0, 1, 1, 1, -8678.5, -570.492, 156.221, 4.41598, 300, 14, 0, 6376, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
-(9001208, 600631, 0, 0, 0, 0, 0, 1, 1, 1, -8691.95, -515.198, 158.831, 0.405512, 300, 7, 0, 6376, 0, 1, 0, 0, 0, '', NULL, 0, NULL);
+(9001161, 600631, 0, 0, 907, 0, 0, 1, 1, 1, -8311.99, -320.921, 140.28, 3.0845, 300, 8, 0, 6376, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
+(9001164, 600631, 0, 0, 907, 0, 0, 1, 1, 1, -8346.89, -259.137, 140.28, 1.08357, 300, 14, 0, 6376, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
+(9001198, 600631, 0, 0, 907, 0, 0, 1, 1, 1, -8678.5, -570.492, 156.221, 4.41598, 300, 14, 0, 6376, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
+(9001208, 600631, 0, 0, 907, 0, 0, 1, 1, 1, -8691.95, -515.198, 158.831, 0.405512, 300, 7, 0, 6376, 0, 1, 0, 0, 0, '', NULL, 0, NULL);
 
 UPDATE `creature_template` SET `AIName` = 'SmartAI' WHERE `entry` = 600631;
 
