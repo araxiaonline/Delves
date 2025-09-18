@@ -113,9 +113,10 @@ INSERT INTO `creature_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Q
 
 DELETE FROM `creature` WHERE (`id1` = 600689);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
-(9001703, 600689, 0, 0, 0, 0, 0, 1, 1, 0, -1827.79, -4128.34, 11.7381, 1.23743, 300, 10, 0, 11477, 9330, 1, 0, 0, 0, '', NULL, 0, NULL),
-(9001717, 600689, 0, 0, 0, 0, 0, 1, 1, 0, -1770.73, -4275.11, 2.81984, 5.30908, 300, 10, 0, 11477, 9330, 1, 0, 0, 0, '', NULL, 0, NULL),
-(9001723, 600689, 0, 0, 0, 0, 0, 1, 1, 0, -1837.92, -4214.1, 3.14544, 0.631949, 300, 10, 0, 11477, 9330, 1, 0, 0, 0, '', NULL, 0, NULL);
+(9001703, 600689, 0, 0, 906, 0, 0, 1, 1, 0, -1827.79, -4128.34, 11.7381, 1.23743, 300, 10, 0, 11477, 9330, 1, 0, 0, 0, '', NULL, 0, NULL),
+(9001717, 600689, 0, 0, 906, 0, 0, 1, 1, 0, -1770.73, -4275.11, 2.81984, 5.30908, 300, 10, 0, 11477, 9330, 1, 0, 0, 0, '', NULL, 0, NULL),
+(9001723, 600689, 0, 0, 906, 0, 0, 1, 1, 0, -1837.92, -4214.1, 3.14544, 0.631949, 300, 10, 0, 11477, 9330, 1, 0, 0, 0, '', NULL, 0, NULL);
+
 
 UPDATE `creature_template` SET `AIName` = 'SmartAI' WHERE `entry` = 600689;
 
