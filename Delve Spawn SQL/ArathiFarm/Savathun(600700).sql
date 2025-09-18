@@ -59,6 +59,12 @@ INSERT INTO `skinning_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Q
 (600700, 33568, 0, 0, 0, 1, 1, 1, 1, NULL),
 (600700, 44128, 0, 1, 0, 1, 1, 1, 1, NULL);
 
+DELETE FROM `creature` WHERE (`id1` = 600700);
+INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `Comment`, `VerifiedBuild`) VALUES
+(9001767, 600700, 0, 0, 906, 0, 0, 1, 1, 0, -1698.36, -4261.88, 1.99885, 2.43984, 300, 5, 0, 1476628, 0, 1, 0, 0, 0, '', NULL, NULL);
+
+
+  
 UPDATE `creature_template` SET `AIName` = 'SmartAI' WHERE `entry` = 600700;
 
 DELETE FROM `smart_scripts` WHERE (`source_type` = 0 AND `entryorguid` = 600700);
