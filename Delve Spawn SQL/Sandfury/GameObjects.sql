@@ -1,3 +1,5 @@
+DELETE FROM `gameobject`
+WHERE `id` IN (1799, 202886, 3659, 3695, 185167, 186250, 20977);
 INSERT INTO `gameobject` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `position_x`, `position_y`, `position_z`, `orientation`, `rotation0`, `rotation1`, `rotation2`, `rotation3`, `spawntimesecs`, `animprogress`, `state`, `ScriptName`, `VerifiedBuild`, `Comment`) VALUES
 (8001479, 1799, 905, 0, 0, 1, 1, -13029.3, -1549.22, 60.1333, 3.82046, 0, 0, -0.942944, 0.332952, 300, 0, 1, '', NULL, NULL),
 (8001474, 202886, 905, 0, 0, 1, 1, -13030.7, -1549.52, 59.9955, 1.40204, 0, 0, -0.644996, -0.764186, 300, 0, 1, '', NULL, NULL),
