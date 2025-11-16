@@ -12,6 +12,7 @@ INSERT INTO `creature_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Q
 (600628, 24507, 0, 70, 0, 1, 1, 1, 1, 'Darkcrest Sentry - Elemental Shard'),
 (600628, 24510, 0, 15, 0, 1, 1, 1, 1, 'Darkcrest Sentry - Primordial Core');
 
+DELETE FROM `creature` WHERE (`id1` = 600628);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
 (9001186, 600628, 0, 0, 907, 0, 0, 1, 1, 0, -8514.78, -479.521, 141.974, 0.770176, 300, 13, 0, 382602, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
 (9001204, 600628, 0, 0, 907, 0, 0, 1, 1, 0, -8633.67, -491.319, 142.035, 1.51889, 300, 5, 0, 382602, 0, 1, 0, 0, 0, '', NULL, 0, NULL),
