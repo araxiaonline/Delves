@@ -1,13 +1,13 @@
-INSERT INTO `acore_world`.`game_graveyard` (`ID`, `Map`, `x`, `y`, `z`, `Comment`) VALUES
-(5000, 900, 2723.209, 1978.284, 285.9737, 'Stonetalon Ruins GY'),
-(5001, 901, 9948.516, -387.6605, 12.00058, 'Demonhunter Cove GY'),
-(5003, 904, 2504.312, 2591.502, 63.51176, 'Blackchar Cave GY'),
-(5002, 902, 1685.99, 1774.264, 144.7897, 'Stonetalon Logging Camp GY'),
-(5007, 908, 4233.918, -2685.459, 5.032512, 'Quelthalas Island GY'),
-(5004, 905, -12978.39, -1281.253, 45.77729, 'Sandfury Oasis GY'),
-(5005, 906, -1996.719, -4041.042, 3.033362, 'Arathi Farmlands GY'),
-(5006, 907, -8357.601, -341.7997, 146.8458, 'Elwynnfalls GY'),
-(5008, 909, -5929.585, 965.1906, 486.6748, 'Forgotten Gnome Camp GY'),
-(5009, 903, 2610.055, 2829.301, 397.492, 'Old Ironforge GY'),
-(5010, 910, -6382.35, -846.128, 396.228, 'Newmans Landing GY'),
-(5011, 911, -11632.0654, -2349.73438, 9.686516, 'Altar of Storms GY');
+INSERT INTO acore_world.game_graveyard (ID,`Map`,x,y,z,Comment) VALUES
+	 (5000,900,2723.21,1978.28,285.974,'Stonetalon Ruins GY'),
+	 (5001,901,9948.52,-387.66,12.0006,'Demonhunter Cove GY'),
+	 (5002,902,1685.99,1774.26,144.79,'Stonetalon Logging Camp GY'),
+	 (5003,904,2504.31,2591.5,63.5118,'Blackchar Cave GY'),
+	 (5004,905,-12978.4,-1281.25,45.7773,'Sandfury Oasis GY'),
+	 (5005,906,-1996.72,-4041.04,3.03336,'Arathi Farmlands GY'),
+	 (5006,907,-8357.6,-341.8,146.846,'Elwynnfalls GY'),
+	 (5007,908,4233.92,-2685.46,5.03251,'Quelthalas Island GY'),
+	 (5008,909,-5929.58,965.191,486.675,'Forgotten Gnome Camp GY'),
+	 (5009,903,2610.05,2829.3,35.4454,'Old Ironforge GY'),
+	 (5010,910,-6382.35,-846.128,396.228,'Newmans Landing GY'),
+	 (5011,911,-11632.1,-2349.73,9.68652,'Altar of Storms GY');
