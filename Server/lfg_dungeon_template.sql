@@ -1,12 +1,12 @@
-INSERT INTO `acore_world`.`lfg_dungeon_template` (`dungeonId`, `name`, `position_x`, `position_y`, `position_z`, `orientation`, `VerifiedBuild`) VALUES
-(900, 'Stonetalon Ruins', 2725.531738, 1947.953735, 290.990601, 1.344944, 0),
-(901, 'Demon Hunter Cove', 9648.030273, -208.490005, 21.402897, 0.441980, 0),
-(902, 'Stonetalon Logging Camp', 1700.358765, 1779.384521, 144.574692, 4.328319, 0),
-(904, 'Blackchar Cave', 2503.135986, 2590.451904, 62.987789, 6.176579, 0),
-(905, 'Sandfury Delve', -12965.552734, -1277.645020, 45.990704, 4.002834, 0),
-(906, 'Arathi Highlands Farm', -1913.873779, -3907.356689, 110.663895, 4.729281, 0),
-(907, 'Elwynn Falls', -8325.285156, -340.285370, 145.863403, 6.022076, 0),
-(908, 'QuelThalas Island', 4239.342285, -2683.871338, 5.781008, 4.806246, 0),
-(909, 'Forgotten Gnome Camp', -5931.078613, 986.903076, 488.972839, 4.873131, 0),
-(910, 'Newmans Landing', -6377.274902, -847.213379, 396.180176, 6.048255, 0),
-(911, 'Altar of Storms', -11627.419922, -2348.380000, 10.088909, 3.813848, 0);
+INSERT INTO acore_world.lfg_dungeon_template (dungeonId,name,position_x,position_y,position_z,orientation,VerifiedBuild) VALUES
+	 (900,'Stonetalon Ruins',2725.53,1947.95,290.991,1.34494,0),
+	 (901,'Demon Hunter Cove',9648.03,-208.49,21.4029,0.44198,0),
+	 (902,'Stonetalon Logging Camp',1700.36,1779.38,144.575,4.32832,0),
+	 (904,'Blackchar Cave',2503.14,2590.45,62.9878,6.17658,0),
+	 (905,'Sandfury Delve',-12965.6,-1277.65,45.9907,4.00283,0),
+	 (906,'Arathi Highlands Farm',-1913.87,-3907.36,110.664,4.72928,0),
+	 (907,'Elwynn Falls',-8325.29,-340.285,145.863,6.02208,0),
+	 (908,'QuelThalas Island',4239.34,-2683.87,5.78101,4.80625,0),
+	 (909,'Forgotten Gnome Camp',-5931.08,986.903,488.973,4.87313,0),
+	 (910,'Newmans Landing',-6377.27,-847.213,396.18,6.04825,0),
+	 (911,'Altar of Storms',-11627.4,-2348.38,10.0889,3.81385,0);
