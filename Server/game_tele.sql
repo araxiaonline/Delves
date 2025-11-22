@@ -1,23 +1,13 @@
-INSERT INTO `acore_world`.`game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES
--- Stonetalon Ruins
-(4000, 2725.531738, 1947.953735, 290.990601, 1.344944, 900, 'Stonetalon Ruins'),
--- Demon Hunter Cove
-(4001, 9648.030273, -208.490005, 21.402897, 0.441980, 901, 'Demon Hunter Cove'),
--- Stonetalon Logging Camp
-(4002, 1700.358765, 1779.384521, 144.574692, 4.328319, 902, 'Stonetalon Logging Camp'),
--- Blackchar Cave
-(4003, 2503.135986, 2590.451904, 62.987789, 6.176579, 904, 'Blackchar Cave'),
--- Sandfury Delve
-(4004, -12965.552734, -1277.645020, 45.990704, 4.002834, 905, 'Sandfury Delve'),
--- Arathi Highlands Farm
-(4005, -1913.873779, -3907.356689, 110.663895, 4.729281, 906, 'Arathi Highlands Farm'),
--- Elwynn Falls
-(4006, -8325.285156, -340.285370, 145.863403, 6.022076, 907, 'Elwynn Falls'),
--- Quel'Thalas Island
-(4007, 4239.342285, -2683.871338, 5.781008, 4.806246, 908, 'QuelThalas Island'),
--- Forgotten Gnome Camp
-(4008, -5931.078613, 986.903076, 488.972839, 4.873131, 909, 'Forgotten Gnome Camp'),
--- Newman's Landing
-(4009, -6377.274902, -847.213379, 396.180176, 6.048255, 910, 'Newman\'s Landing'),
--- Altar of Storms
-(4010, -11627.419922, -2348.380000, 10.088909, 3.813848, 911, 'Altar of Storms');
+INSERT INTO acore_world.game_tele (id,position_x,position_y,position_z,orientation,`map`,name) VALUES
+	 (4000,2725.53,1947.95,290.991,1.34494,900,'Stonetalon Ruins'),
+	 (4001,9648.03,-208.49,21.4029,0.44198,901,'Demon Hunter Cove'),
+	 (4002,1700.36,1779.38,144.575,4.32832,902,'Stonetalon Logging Camp'),
+	 (4003,2503.14,2590.45,62.9878,6.17658,904,'Blackchar Cave'),
+	 (4004,-12965.6,-1277.65,45.9907,4.00283,905,'Sandfury Delve'),
+	 (4005,-1913.87,-3907.36,110.664,4.72928,906,'Arathi Highlands Farm'),
+	 (4006,-8325.29,-340.285,145.863,6.02208,907,'Elwynn Falls'),
+	 (4007,4239.34,-2683.87,5.78101,4.80625,908,'QuelThalas Island'),
+	 (4008,-5931.08,986.903,488.973,4.87313,909,'Forgotten Gnome Camp'),
+	 (4009,-6377.27,-847.213,396.18,6.04825,910,'Newman''s Landing'),
+	 (4010,-11627.4,-2348.38,10.0889,3.81385,911,'Altar of Storms');
+
