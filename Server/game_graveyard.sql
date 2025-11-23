@@ -11,4 +11,4 @@ INSERT INTO acore_world.game_graveyard (ID,`Map`,x,y,z,Comment) VALUES
 	 (5009,903,2610.05,2829.3,35.4454,'Old Ironforge GY'),
 	 (5010,910,-6382.35,-846.128,396.228,'Newmans Landing GY'),
 	 (5011,911,-11632.1,-2349.73,9.68652,'Altar of Storms GY'),
-     (5012, 12819.95, 15279.51, 6.315378, 0.0, 805, 'Mustafar GY');
+     (5012, 805, 12819.95, 15279.51, 6.315378, 'Mustafar GY');
