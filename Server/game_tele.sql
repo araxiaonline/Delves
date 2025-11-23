@@ -9,5 +9,7 @@ INSERT INTO acore_world.game_tele (id,position_x,position_y,position_z,orientati
 	 (4007,4239.34,-2683.87,5.78101,4.80625,908,'QuelThalas Island'),
 	 (4008,-5931.08,986.903,488.973,4.87313,909,'Forgotten Gnome Camp'),
 	 (4009,-6377.27,-847.213,396.18,6.04825,910,'Newman''s Landing'),
-	 (4010,-11627.4,-2348.38,10.0889,3.81385,911,'Altar of Storms');
+	 (4010,-11627.4,-2348.38,10.0889,3.81385,911,'Altar of Storms'),
+	 (5013,12822.0,15262.3,18.5815,0.0,805,'Mustafar Teleport Spot');
+
 
