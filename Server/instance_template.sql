@@ -9,4 +9,5 @@ INSERT INTO acore_world.instance_template (`map`,parent,script,allowMount) VALUE
 	 (908,0,'',0),
 	 (909,0,'',0),
 	 (910,0,'',0),
-	 (911,0,'',0);
+	 (911,0,'',0),
+	 (805,0,'',1);
