@@ -10,4 +10,5 @@ INSERT INTO acore_world.graveyard_zone (ID,GhostZone,Faction,Comment) VALUES
 	 (5008,6011,0,'Forgotten Gnome Camp GY'),
 	 (5009,6012,0,'Old Ironforge GY'),
 	 (5010,6013,0,'Newmans Landing GY'),
-	 (5011,6014,0,'Altar of Storms GY');
+	 (5011,6014,0,'Altar of Storms GY'),
+     (5012,6002,0,'Mustafar GY');
