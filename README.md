@@ -95,7 +95,7 @@
 
 | **Enemy**              | **Entry ID** | **Type** |
 |------------------------|--------------|----------|
-| **Favargair Ogre-Keeper** | **600636**   | **Boss** |
+| **Favargair Ogre-Keeper** | **600636**   | **Boss** | Krosh Firehand (18832) |
 | Hillmen Defender       | 600637       | Mob      |
 | Rock-Ogre Brawler     | 600638       | Mob      |
 | Rock-Ogre Flesheater  | 600639       | Mob      |
