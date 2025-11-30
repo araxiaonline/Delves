@@ -93,15 +93,15 @@
 ### **Blackchar Cave**
 > *Deep within Blackchar Cave, the brutish Favargair Ogre-Keeper reigns over his savage army of Rock-Ogres. Hillmen Defenders guard the entrance, while Brawlers, Flesheaters, and Hurlers lie in wait, ready to crush any intruders. The dark cave echoes with the sound of crashing stone as these monstrous creatures prepare for battle.*
 
-| **Enemy**              | **Entry ID** | **Type** |
-|------------------------|--------------|----------|
-| **Favargair Ogre-Keeper** | **600636**   | **Boss** | Krosh Firehand (18832) |
-| Hillmen Defender       | 600637       | Mob      |
-| Rock-Ogre Brawler     | 600638       | Mob      |
-| Rock-Ogre Flesheater  | 600639       | Mob      |
-| Rock-Ogre Hurler      | 600640       | Mob      |
-| Rock-Ogre Lobber      | 600641       | Mob      |
-| Rock-Ogre Wildarm     | 600642       | Mob      |
+| Enemy                    | Entry ID | Type  | Loot from Creature (lootid)             |
+|--------------------------|----------|-------|-----------------------------------------|
+| **Favargair Ogre-Keeper**| **600636** | **Boss** | Krosh Firehand (18832)          |
+| Hillmen Defender         | 600637   | Mob   | Spirestone Warlord (9216)               |
+| Rock-Ogre Brawler        | 600638   | Mob   | Spirestone Reaver (9200)                |
+| Rock-Ogre Flesheater     | 600639   | Mob   | Spirestone Butcher (9219)               |
+| Rock-Ogre Hurler         | 600640   | Mob   | Spirestone Battle Mage (9197)           |
+| Rock-Ogre Lobber         | 600641   | Mob   | Spirestone Mystic (9198)                |
+| Rock-Ogre Wildarm        | 600642   | Mob   | Spirestone Lord Magus (9217)            |
 
 ---
 
