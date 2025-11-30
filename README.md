@@ -54,19 +54,19 @@
 ### **Sandfury Delve**
 > *Deep within the desert, the Sandfury trolls, led by Souse San Rhazon and Xantosh, practice forbidden magics. Their ranks are filled with Axe Throwers, Firecallers, and Shadowcasters, all bound to dark purposes. The air is thick with plague as they seek to awaken ancient powers beneath the sand.*
 
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Sandfury Axe Thrower    | 600613       | Mob      |
-| Sandfury Firecaller     | 600614       | Mob      |
-| Sandfury Shadowcaster   | 600615       | Mob      |
-| Sandfury Blood Drinker  | 600616       | Mob      |
-| Sandfury Witch Doctor   | 600617       | Mob      |
-| Sandfury Executioner    | 600618       | Mob      |
-| Sandfury Plague Spreader| 600619       | Mob      |
-| Sandfury Shadowhunter   | 600620       | Mob      |
-| **Souse San Rhazon**    | **600621**   | **Boss** |
-| **Xantosh**             | **600622**   | **Boss** |
-| **Chief Runetusk**      | **600623**   | **Boss** |
+| Enemy                    | Entry ID | Type  | Loot from Creature (lootid)            |
+|--------------------------|----------|-------|----------------------------------------|
+| Sandfury Axe Thrower     | 600613   | Mob   | Amani'shi Axe Thrower (23542)          |
+| Sandfury Firecaller      | 600614   | Mob   | Amani'shi Flame Caster (23596)         |
+| Sandfury Shadowcaster    | 600615   | Mob   | Amani'shi Medicine Man (23581)         |
+| Sandfury Blood Drinker   | 600616   | Mob   | Amani'shi Tribesman (23582)            |
+| Sandfury Witch Doctor    | 600617   | Mob   | Amani'shi Medicine Man (23581)         |
+| Sandfury Executioner     | 600618   | Mob   | Amani'shi Warbringer (23580)           |
+| Sandfury Plague Spreader | 600619   | Mob   | Amani'shi Guardian (23597)             |
+| Sandfury Shadowhunter    | 600620   | Mob   | Amani'shi Beast Tamer (24059)          |
+| **Souse San Rhazon**     | **600621** | **Boss** | Heigan the Unclean (15936)          |
+| **Xantosh**              | **600622** | **Boss** | Jin'do the Hexxer (11380)           |
+| **Chief Runetusk**       | **600623** | **Boss** | Bloodlord Mandokir (11382)          |
 
 ---
 
