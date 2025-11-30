@@ -73,20 +73,20 @@
 ### **Elwynn Falls**
 > *At Elwynn Falls, a deadly alliance of Naga and Murlocs, led by Lord Mwargadon and Gurlgles, threatens the land. Darkcrest Taskmasters and Sorceresses command their forces, while Murloc Tidecallers and Hunters wreak havoc on the shores. The falls are plagued by Coilfang Elementals, and a dark power stirs beneath the waters.*
 
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Darkcrest Taskmaster    | 600624       | Mob      |
-| Darkcrest Siren         | 600625       | Mob      |
-| Bloodscale Wavecaller   | 600626       | Mob      |
-| Darkcrest Sorceress     | 600627       | Mob      |
-| Darkcrest Sentry        | 600628       | Mob      |
-| Murloc Tidecaller       | 600629       | Mob      |
-| Murloc Oracle           | 600630       | Mob      |
-| Murloc Hunter           | 600631       | Mob      |
-| Coilfang Water Elemental| 600632       | Mob      |
-| **Lord Mwargadon**      | **600633**   | **Boss** |
-| **Gurlgles**      | **600634**   | **Boss** |
-| **Aquaspawn**      | **600635**   | **Boss** |
+| Enemy                    | Entry ID | Type | Loot from Creature (lootid)     |
+|--------------------------|----------|------|---------------------------------|
+| Darkcrest Taskmaster     | 600624   | Mob  | Coilfang Slavemaster (17805)    |
+| Darkcrest Siren          | 600625   | Mob  | Coilfang Siren (17801)          |
+| Bloodscale Wavecaller    | 600626   | Mob  | Coilfang Siren (17801)          |
+| Darkcrest Sorceress      | 600627   | Mob  | Coilfang Sorceress (17722)      |
+| Darkcrest Sentry         | 600628   | Mob  | Coilfang Myrmidon (17800)       |
+| Murloc Tidecaller        | 600629   | Mob  | Coilfang Oracle (17803)         |
+| Murloc Oracle            | 600630   | Mob  | Coilfang Oracle (17803)         |
+| Murloc Hunter            | 600631   | Mob  | Coilfang Warrior (17802)        |
+| Coilfang Water Elemental | 600632   | Mob  | Coilfang Observer (17938)       |
+| **Lord Mwargadon**      | **600633**   | **Boss** | Fathom-Lord Karathress (21214) |
+| **Gurlgles**      | **600634**   | **Boss** | Morogrim Tidewalker (21213) |
+| **Aquaspawn**      | **600635**   | **Boss** | Hydrospawn (13280) |
 
 ---
 
