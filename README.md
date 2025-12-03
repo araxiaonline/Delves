@@ -95,7 +95,7 @@
 
 | Enemy | Entry ID | Type | Loot from Creature (lootid) | Creature Based On |
 | :--- | :--- | :--- | :--- | :--- |
-| **Favargair Ogre-Keeper** | **600636** | **Boss** | 18832 | *(No Source Mob Specified)* |
+| **Favargair Ogre-Keeper** | **600636** | **Boss** | 18832 | *Custom Lua* |
 | **Hillmen Defender** | 600637 | Mob | **600000** | Forge Construct (34085) |
 | **Rock-Ogre Brawler** | 600638 | Mob | **600000** | Dark Rune Champion (32922) |
 | **Rock-Ogre Flesheater** | 600639 | Mob | **600000** | Dark Rune Ravager (33755) |
