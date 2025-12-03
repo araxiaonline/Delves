@@ -95,13 +95,13 @@
 
 | Enemy | Entry ID | Type | Loot from Creature (lootid) | Creature Based On |
 | :--- | :--- | :--- | :--- | :--- |
-| **Favargair Ogre-Keeper** | **600636** | **Boss** | Krosh Firehand (18832) | *(No Source Mob Specified)* |
-| **Hillmen Defender** | 600637 | Mob | **Custom Raid Trash (600000)** | Forge Construct (34085) |
-| **Rock-Ogre Brawler** | 600638 | Mob | **Custom Raid Trash (600000)** | Dark Rune Champion (32922) |
-| **Rock-Ogre Flesheater** | 600639 | Mob | **Custom Raid Trash (600000)** | Dark Rune Ravager (33755) |
-| **Rock-Ogre Hurler** | 600640 | Mob | **Custom Raid Trash (600000)** | Dark Rune Warbringer (32877) |
-| **Rock-Ogre Lobber** | 600641 | Mob | **Custom Raid Trash (600000)** | Dark Rune Evoker (32878) |
-| **Rock-Ogre Wildarm** | 600642 | Mob | **Custom Raid Trash (600000)** | Plagued Guardian (16981) |
+| **Favargair Ogre-Keeper** | **600636** | **Boss** | 18832 | *(No Source Mob Specified)* |
+| **Hillmen Defender** | 600637 | Mob | **600000** | Forge Construct (34085) |
+| **Rock-Ogre Brawler** | 600638 | Mob | **600000** | Dark Rune Champion (32922) |
+| **Rock-Ogre Flesheater** | 600639 | Mob | **600000** | Dark Rune Ravager (33755) |
+| **Rock-Ogre Hurler** | 600640 | Mob | **600000** | Dark Rune Warbringer (32877) |
+| **Rock-Ogre Lobber** | 600641 | Mob | **600000** | Dark Rune Evoker (32878) |
+| **Rock-Ogre Wildarm** | 600642 | Mob | **600000** | Plagued Guardian (16981) |
 
 ---
 
