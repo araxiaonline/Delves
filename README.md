@@ -73,35 +73,35 @@
 ### **Elwynn Falls**
 > *At Elwynn Falls, a deadly alliance of Naga and Murlocs, led by Lord Mwargadon and Gurlgles, threatens the land. Darkcrest Taskmasters and Sorceresses command their forces, while Murloc Tidecallers and Hunters wreak havoc on the shores. The falls are plagued by Coilfang Elementals, and a dark power stirs beneath the waters.*
 
-| Enemy                    | Entry ID | Type | Loot from Creature (lootid)     |
-|--------------------------|----------|------|---------------------------------|
-| Darkcrest Taskmaster     | 600624   | Mob  | Coilfang Slavemaster (17805)    |
-| Darkcrest Siren          | 600625   | Mob  | Coilfang Siren (17801)          |
-| Bloodscale Wavecaller    | 600626   | Mob  | Coilfang Siren (17801)          |
-| Darkcrest Sorceress      | 600627   | Mob  | Coilfang Sorceress (17722)      |
-| Darkcrest Sentry         | 600628   | Mob  | Coilfang Myrmidon (17800)       |
-| Murloc Tidecaller        | 600629   | Mob  | Coilfang Oracle (17803)         |
-| Murloc Oracle            | 600630   | Mob  | Coilfang Oracle (17803)         |
-| Murloc Hunter            | 600631   | Mob  | Coilfang Warrior (17802)        |
-| Coilfang Water Elemental | 600632   | Mob  | Coilfang Observer (17938)       |
-| **Lord Mwargadon**      | **600633**   | **Boss** | Fathom-Lord Karathress (21214) |
-| **Gurlgles**      | **600634**   | **Boss** | Morogrim Tidewalker (21213) |
-| **Aquaspawn**      | **600635**   | **Boss** | Hydrospawn (13280) |
+| Enemy                    | Entry ID | Type |
+|--------------------------|----------|------|
+| Darkcrest Taskmaster     | 600624   | Mob  |
+| Darkcrest Siren          | 600625   | Mob  |
+| Bloodscale Wavecaller    | 600626   | Mob  |
+| Darkcrest Sorceress      | 600627   | Mob  |
+| Darkcrest Sentry         | 600628   | Mob  |
+| Murloc Tidecaller        | 600629   | Mob  |
+| Murloc Oracle            | 600630   | Mob  |
+| Murloc Hunter            | 600631   | Mob  |
+| Coilfang Water Elemental | 600632   | Mob  |
+| **Lord Mwargadon**      | **600633**   | **BOSS (Scripted)** |
+| **Gurlgles**      | **600634**   | **BOSS (Scripted)** |
+| **Aquaspawn**      | **600635**   | **BOSS (Scripted)** |
 
 ---
 
 ### **Blackchar Cave**
 > *Deep within Blackchar Cave, the brutish Favargair Ogre-Keeper reigns over his savage army of Rock-Ogres. Hillmen Defenders guard the entrance, while Brawlers, Flesheaters, and Hurlers lie in wait, ready to crush any intruders. The dark cave echoes with the sound of crashing stone as these monstrous creatures prepare for battle.*
 
-| Enemy | Entry ID | Type | Loot from Creature (lootid) | Creature Based On |
-| :--- | :--- | :--- | :--- | :--- |
-| **Favargair Ogre-Keeper** | **600636** | **BOSS (Scripted)** | 18832 | **Custom LUA Script** |
-| **Hillmen Defender** | 600637 | Mob | 34085 | Forge Construct (34085) |
-| **Rock-Ogre Brawler** | 600638 | Mob | 32922 | Dark Rune Champion (32922) |
-| **Rock-Ogre Flesheater** | 600639 | Mob | 33755 | Dark Rune Ravager (33755) |
-| **Rock-Ogre Hurler** | 600640 | Mob | 32877 | Dark Rune Warbringer (32877) |
-| **Rock-Ogre Lobber** | 600641 | Mob | 32878 | Dark Rune Evoker (32878) |
-| **Rock-Ogre Wildarm** | 600642 | Mob | 16981 | Plagued Guardian (16981) |
+| Enemy | Entry ID | Type |
+| :--- | :--- | :--- |
+| **Favargair Ogre-Keeper** | **600636** | **BOSS (Scripted)** |
+| **Hillmen Defender** | 600637 | Mob |
+| **Rock-Ogre Brawler** | 600638 | Mob |
+| **Rock-Ogre Flesheater** | 600639 | Mob |
+| **Rock-Ogre Hurler** | 600640 | Mob |
+| **Rock-Ogre Lobber** | 600641 | Mob |
+| **Rock-Ogre Wildarm** | 600642 | Mob |
 
 ---
 
@@ -115,8 +115,8 @@
 | Bloodsail Warlock       | 600645       | Mob      |
 | Bloodsail Sea Dog       | 600646       | Mob      |
 | Bloodsail Elder Magus   | 600647       | Mob      |
-| **Fleet Master Skaldron** | **600648**   | **Boss** |
-| **Lithianawan**         | **600649**   | **Boss** |
+| **Fleet Master Skaldron** | **600648**   | **BOSS (Scripted)** |
+| **Lithianawan**         | **600649**   | **BOSS (Scripted)** |
 
 ---
 
@@ -213,9 +213,9 @@
 | Plaguehound             | 600695       | Mob      |
 | Infected Wildlife       | 600696       | Mob      |
 | Plagued Maggot          | 600697       | Mob      |
-| **Ghubo**               | **600698**   | **Boss** |
-| **Rhulk The Diseased**  | **600699**   | **Boss** |
-| **Savathûn, The Redeemer** | **600700** | **Boss** | 
+| **Ghubo**               | **600698**   | **BOSS (Scripted)** |
+| **Rhulk The Diseased**  | **600699**   | **BOSS (Scripted)** |
+| **Savathûn, The Redeemer** | **600700** | **BOSS (Scripted)** | 
 
 ---
 
