@@ -203,7 +203,6 @@
 | Venture Co. Ruffian      | 600659       | Mob      |
 | Venture Co. Enforcer     | 600660       | Mob      |
 | Venture Co. Tinkerer     | 600661       | Mob      |
-| **Nessie**               | **600662**   | **Boss** |
 | **Overlord Snivey**      | **600701**   | **Boss** |
 | **Overlord Moosh**       | **600702**   | **Boss** |
 ---
