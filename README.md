@@ -13,7 +13,7 @@
 | [Demon Hunter Cove](#demon-hunter-cove) | X: 9648.030273 Y: -208.490005 Z: 21.402897 O: 0.441980 | 901 | `.go xyz 9648.030273 -208.490005 21.402897 901` | 83-85 | O |
 | [Elwynn Falls](#elwynn-falls) | X: -8325.285156 Y: -340.285370 Z: 145.863403 O: 6.022076 | 907 | `.go xyz -8325.285156 -340.285370 145.863403 907` | 82-85 | X |
 | [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5931.078613 Y: 986.903076 Z: 488.972839 O:4.873131 | 909 | `.go xyz -5931.078613 986.903076 488.972839 909` | 83-85 | X |
-| [Newman's Landing](#newmans-landing) | X: -6377.274902 Y: -847.213379 Z: 396.180176 O: 6.048255 | 910 | `.go xyz -6377.274902 -847.213379 396.180176 910` | 83-85 | O |
+| [Newman's Landing](#newmans-landing) | X: -6377.274902 Y: -847.213379 Z: 396.180176 O: 6.048255 | 910 | `.go xyz -6377.274902 -847.213379 396.180176 910` | 83-85 | X |
 | [Quel'Thalas Island](#quelthalas-island) | X: 4239.342285 Y: -2683.871338 Z: 5.781008 O: 4.806246 | 908 | `.go xyz 4239.342285 -2683.871338 5.781008 908` | 83-85 | X |
 | [Sandfury Delve](#sandfury-delve) | X: -12965.552734 Y: -1277.645020 Z: 45.990704 O: 4.002834 | 905 | `.go xyz -12965.552734 -1277.645020 45.990704 905` | 82-84 | X |
 | [Stonetalon Logging Camp](#stonetalon-logging-camp) | X: 1700.358765 Y: 1779.384521 Z: 144.574692 O: 4.328319 | 902 | `.go xyz 1700.358765 1779.384521 144.574692 902` | 82-85 | X |
@@ -137,8 +137,8 @@
 | Deadwood Pathfinder      | 600652       | Mob      |
 | Deadwood Avenger         | 600653       | Mob      |
 | Deadwood Shaman          | 600654       | Mob      |
-| **Chieftain Coldpaw**    | **600655**   | **Boss** |
-| **Overlord Rigto**       | **600656**   | **Boss** |
+| **Chieftain Coldpaw**    | **600655**   | **BOSS (Scripted)** |
+| **Overlord Rigto**       | **600656**   | **BOSS (Scripted)** |
 ---
 
 ### Old Ironforge
@@ -188,9 +188,9 @@
 | Sandfury Executioner     | 600618       | Mob      |
 | Sandfury Plague Spreader | 600619       | Mob      |
 | Sandfury Shadowhunter    | 600620       | Mob      |
-| **Souse San Rhazon**     | **600621**   | **Boss** |
-| **Xantosh**              | **600622**   | **Boss** |
-| **Chief Runetusk**       | **600623**   | **Boss** |
+| **Souse San Rhazon**     | **600621**   | **BOSS (Scripted)** |
+| **Xantosh**              | **600622**   | **BOSS (Scripted)** |
+| **Chief Runetusk**       | **600623**   | **BOSS (Scripted)** |
 ---
 
 ### Stonetalon Logging Camp
