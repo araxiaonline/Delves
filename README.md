@@ -123,8 +123,8 @@
 | Rockjaw Shaman           | 600676       | Mob      |
 | Rockjaw Raider           | 600677       | Mob      |
 | Rockjaw Brawler          | 600678       | Mob      |
-| **Grurvuch**             | **600679**   | **Boss** |
-| **Scervig**              | **600680**   | **Boss** |
+| **Grurvuch**             | **600679**   | **BOSS (Scripted)** |
+| **Scervig**              | **600680**   | **BOSS (Scripted)** |
 ---
 
 ### Newman's Landing
