@@ -203,8 +203,8 @@
 | Venture Co. Ruffian      | 600659       | Mob      |
 | Venture Co. Enforcer     | 600660       | Mob      |
 | Venture Co. Tinkerer     | 600661       | Mob      |
-| **Overlord Snivey**      | **600701**   | **Boss** |
-| **Overlord Moosh**       | **600702**   | **Boss** |
+| **Overlord Snivey**      | **600701**   |  **BOSS (Scripted)** |
+| **Overlord Moosh**       | **600702**   |  **BOSS (Scripted)** |
 ---
 
 ### Stonetalon Ruins
