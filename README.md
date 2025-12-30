@@ -219,7 +219,7 @@
 | Venture Co. Tinkerer     | 600661       | Mob      |
 | **Nessie**               | **600662**   | **Boss** |
 | **Ruin Smasher X-98**    | **600663**   | **Boss** |
-| **Foreman Snivey**       | **600664**   | **Boss** |
+| **Foreman Glitzbolt**       | **600664**   | **Boss** |
 ---
 
 ## **Game Objects List**
