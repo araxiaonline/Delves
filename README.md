@@ -217,9 +217,9 @@
 | Venture Co. Ruffian      | 600659       | Mob      |
 | Venture Co. Enforcer     | 600660       | Mob      |
 | Venture Co. Tinkerer     | 600661       | Mob      |
-| **Nessie**               | **600662**   | **Boss** |
-| **Ruin Smasher X-98**    | **600663**   | **Boss** |
-| **Foreman Glitzbolt**       | **600664**   | **Boss** |
+| **Nessie**               | **600662**   | **BOSS (Scripted)** |
+| **Ruin Smasher X-98**    | **600663**   | **BOSS (Scripted)** |
+| **Foreman Glitzbolt**       | **600664**   | **BOSS (Scripted)** |
 ---
 
 ## **Game Objects List**
