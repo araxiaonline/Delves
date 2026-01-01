@@ -47,6 +47,7 @@
 ---
 
 ### Arathi Highlands Farm
+<a href="JustForLooks/LoadScreenArathiFarm.png"><img src="JustForLooks/LoadScreenArathiFarm.png" width="200"></a>
 > *Nestled within the desolate expanse of the Arathi Highlands, the farm is overrun by Scourge forces. Here, twisted necromancers and their ghastly creations sow death and decay, preparing for the resurgence of their dark power. Amid the chaos, three powerful figures—Ghubo, Rhulk the Diseased, and Savathûn, The Redeemer—command the corrupted horde, threatening to spread their plague beyond the Highlands.*
 
 | **Enemy**                  | **Entry ID** | **Type**            |
