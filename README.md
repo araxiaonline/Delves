@@ -5,19 +5,19 @@
 
 ## **Delve Locations**
 
-| **Name**             | **Coordinates**                                                                        | **MAP ID** | **Macro**                              | **Level {Elite}** | **DONE** |
+| **Name** | **Coordinates** | **MAP ID** | **Macro** | **Level {Elite}** | **DONE** |
 |----------------------|----------------------------------------------------------------------------------------|------------|----------------------------------------|-------------------|----------|
-| [Stonetalon Ruins](#stonetalon-ruins)     | **X:** 2725.531738 **Y:** 1947.953735 **Z:** 290.990601 **O:** 1.344944 | 900        | `.go xyz 2725.631738 1947.953735 290.990601 900` | 82-85 | X |
-| [Demon Hunter Cove](#demon-hunter-cove)    | X: 9648.030273 Y: -208.490005 Z: 21.402897 O: 0.441980 | 901        | `.go xyz 9648.030273 -208.490005 21.402897 901` | 83-85 |
-| [Stonetalon Logging Camp](#stonetalon-logging-camp) | X: 1700.358765 Y: 1779.384521 Z: 144.574692 O: 4.328319 | 902        | `.go xyz 1700.358765 1779.384521 144.574692 902` | 82-85 | X |
-| [Blackchar Cave](#blackchar-cave)       | X: 2423.38 Y: 2557.95 Z: 101.211 O: 6.176579 | 904        | `.go XYZ 2423.38 2557.95 101.211 904` | 82-84 |
-| [Sandfury Delve](#sandfury-delve)      | X: -12965.552734 Y: -1277.645020 Z: 45.990704 O: 4.002834 | 905        | `.go xyz -12965.552734 -1277.645020 45.990704 905` | 82-84 | X |
-| [Arathi Highlands Farm](#arathi-highlands-farm) | X: -1913.873779 Y: -3907.356689 Z: 110.663895 O: 4.729281 | 906        | `.go xyz -1912.873779 -3907.356689 110.663895 906` | 82-85 | X |
+| [Altar of Storms](#altar-of-storms) | X: -11627.419922 Y: -2348.38 Z: 10.088909 O: 3.813848 | 911 | `.go xyz -11631.548 -2348.38 10.088909 911` | 82-85 | X |
+| [Arathi Highlands Farm](#arathi-highlands-farm) | X: -1913.873779 Y: -3907.356689 Z: 110.663895 O: 4.729281 | 906 | `.go xyz -1912.873779 -3907.356689 110.663895 906` | 82-85 | X |
+| [Blackchar Cave](#blackchar-cave) | X: 2423.38 Y: 2557.95 Z: 101.211 O: 6.176579 | 904 | `.go XYZ 2423.38 2557.95 101.211 904` | 82-84 | X |
+| [Demon Hunter Cove](#demon-hunter-cove) | X: 9648.030273 Y: -208.490005 Z: 21.402897 O: 0.441980 | 901 | `.go xyz 9648.030273 -208.490005 21.402897 901` | 83-85 | O |
 | [Elwynn Falls](#elwynn-falls) | X: -8325.285156 Y: -340.285370 Z: 145.863403 O: 6.022076 | 907 | `.go xyz -8325.285156 -340.285370 145.863403 907` | 82-85 | X |
-| [Quel'Thalas Island](#quelthalas-island)   | X: 4239.342285 Y: -2683.871338 Z: 5.781008 O: 4.806246           | 908        | `.go xyz 4239.342285 -2683.871338 5.781008 908` | 83-85 | X |
-| [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5931.078613 Y: 986.903076 Z: 488.972839 O:4.873131             | 909        | `.go xyz -5931.078613 986.903076 488.972839 909`   | 83-85 | X |
-| [Newman's Landing](#newmans-landing)     | X: -6377.274902 Y: -847.213379 Z: 396.180176 O: 6.048255 | 910        | `.go xyz -6377.274902 -847.213379 396.180176 910` | 83-85 | X |
-| [Altar of Storms](#altar-of-storms)     | X: -11627.419922 Y: -2348.38 Z: 10.088909  O: 3.813848        | 911        | `.go xyz -11631.548 -2348.38 10.088909 911` | 82-85 | X |
+| [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5931.078613 Y: 986.903076 Z: 488.972839 O:4.873131 | 909 | `.go xyz -5931.078613 986.903076 488.972839 909` | 83-85 | X |
+| [Newman's Landing](#newmans-landing) | X: -6377.274902 Y: -847.213379 Z: 396.180176 O: 6.048255 | 910 | `.go xyz -6377.274902 -847.213379 396.180176 910` | 83-85 | X |
+| [Quel'Thalas Island](#quelthalas-island) | X: 4239.342285 Y: -2683.871338 Z: 5.781008 O: 4.806246 | 908 | `.go xyz 4239.342285 -2683.871338 5.781008 908` | 83-85 | X |
+| [Sandfury Delve](#sandfury-delve) | X: -12965.552734 Y: -1277.645020 Z: 45.990704 O: 4.002834 | 905 | `.go xyz -12965.552734 -1277.645020 45.990704 905` | 82-84 | X |
+| [Stonetalon Logging Camp](#stonetalon-logging-camp) | X: 1700.358765 Y: 1779.384521 Z: 144.574692 O: 4.328319 | 902 | `.go xyz 1700.358765 1779.384521 144.574692 902` | 82-85 | X |
+| [Stonetalon Ruins](#stonetalon-ruins) | **X:** 2725.531738 **Y:** 1947.953735 **Z:** 290.990601 **O:** 1.344944 | 900 | `.go xyz 2725.631738 1947.953735 290.990601 900` | 82-85 | X |
 
 
 | **Name**             | **Coordinates**                                    | **MAP ID** | **Macro**                              | **Level {Elite}** |
@@ -30,228 +30,235 @@
 
 ## **Enemy List**
 
-### **Old Ironforge**
-> *Beneath Old Ironforge, the Dark Iron dwarves, led by Ehrirmos Coldrock and Rirruhm Brightfury, have returned to reclaim the ruins. With an army of Taskmasters, Raiders, and Shadowcasters, they seek to destroy Ironforge’s legacy. The tunnels are alive with rifle fire and explosions as they dig deeper into forgotten secrets.*
-
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Dark Iron Taskmaster    | 600600       | Mob      |
-| Dark Iron Tunneler      | 600601       | Mob      |
-| Dark Iron Rifleman      | 600602       | Mob      |
-| Dark Iron Shadowcaster  | 600603       | Mob      |
-| Dark Iron Bombardier    | 600604       | Mob      |
-| Dark Iron Raider        | 600605       | Mob      |
-| Dark Iron Sapper        | 600606       | Mob      |
-| Dark Iron Demolitionist | 600607       | Mob      |
-| Dark Iron Marksman      | 600608       | Mob      |
-| Dark Iron Sentry        | 600609       | Mob      |
-| Dark Iron Lookout       | 600610       | Mob      |
-| **Ehrirmos Coldrock**   | **600611**   | **Boss** |
-| **Rirruhm Brightfury**  | **600612**   | **Boss** |
-
----
-
-### **Sandfury Delve**
-> *Deep within the desert, the Sandfury trolls, led by Souse San Rhazon and Xantosh, practice forbidden magics. Their ranks are filled with Axe Throwers, Firecallers, and Shadowcasters, all bound to dark purposes. The air is thick with plague as they seek to awaken ancient powers beneath the sand.*
-
-| Enemy                    | Entry ID | Type  | Loot from Creature (lootid)            |
-|--------------------------|----------|-------|----------------------------------------|
-| Sandfury Axe Thrower     | 600613   | Mob   | Amani'shi Axe Thrower (23542)          |
-| Sandfury Firecaller      | 600614   | Mob   | Amani'shi Flame Caster (23596)         |
-| Sandfury Shadowcaster    | 600615   | Mob   | Amani'shi Medicine Man (23581)         |
-| Sandfury Blood Drinker   | 600616   | Mob   | Amani'shi Tribesman (23582)            |
-| Sandfury Witch Doctor    | 600617   | Mob   | Amani'shi Medicine Man (23581)         |
-| Sandfury Executioner     | 600618   | Mob   | Amani'shi Warbringer (23580)           |
-| Sandfury Plague Spreader | 600619   | Mob   | Amani'shi Guardian (23597)             |
-| Sandfury Shadowhunter    | 600620   | Mob   | Amani'shi Beast Tamer (24059)          |
-| **Souse San Rhazon**     | **600621** | **Boss** | Heigan the Unclean (15936)          |
-| **Xantosh**              | **600622** | **Boss** | Jin'do the Hexxer (11380)           |
-| **Chief Runetusk**       | **600623** | **Boss** | Bloodlord Mandokir (11382)          |
-
----
-
-### **Elwynn Falls**
-> *At Elwynn Falls, a deadly alliance of Naga and Murlocs, led by Lord Mwargadon and Gurlgles, threatens the land. Darkcrest Taskmasters and Sorceresses command their forces, while Murloc Tidecallers and Hunters wreak havoc on the shores. The falls are plagued by Coilfang Elementals, and a dark power stirs beneath the waters.*
-
-| Enemy                    | Entry ID | Type | Loot from Creature (lootid)     |
-|--------------------------|----------|------|---------------------------------|
-| Darkcrest Taskmaster     | 600624   | Mob  | Coilfang Slavemaster (17805)    |
-| Darkcrest Siren          | 600625   | Mob  | Coilfang Siren (17801)          |
-| Bloodscale Wavecaller    | 600626   | Mob  | Coilfang Siren (17801)          |
-| Darkcrest Sorceress      | 600627   | Mob  | Coilfang Sorceress (17722)      |
-| Darkcrest Sentry         | 600628   | Mob  | Coilfang Myrmidon (17800)       |
-| Murloc Tidecaller        | 600629   | Mob  | Coilfang Oracle (17803)         |
-| Murloc Oracle            | 600630   | Mob  | Coilfang Oracle (17803)         |
-| Murloc Hunter            | 600631   | Mob  | Coilfang Warrior (17802)        |
-| Coilfang Water Elemental | 600632   | Mob  | Coilfang Observer (17938)       |
-| **Lord Mwargadon**      | **600633**   | **Boss** | Fathom-Lord Karathress (21214) |
-| **Gurlgles**      | **600634**   | **Boss** | Morogrim Tidewalker (21213) |
-| **Aquaspawn**      | **600635**   | **Boss** | Hydrospawn (13280) |
-
----
-
-### **Blackchar Cave**
-> *Deep within Blackchar Cave, the brutish Favargair Ogre-Keeper reigns over his savage army of Rock-Ogres. Hillmen Defenders guard the entrance, while Brawlers, Flesheaters, and Hurlers lie in wait, ready to crush any intruders. The dark cave echoes with the sound of crashing stone as these monstrous creatures prepare for battle.*
-
-| Enemy | Entry ID | Type | Loot from Creature (lootid) | Creature Based On |
-| :--- | :--- | :--- | :--- | :--- |
-| **Favargair Ogre-Keeper** | **600636** | **BOSS (Scripted)** | 18832 | **Custom LUA Script** |
-| **Hillmen Defender** | 600637 | Mob | 34085 | Forge Construct (34085) |
-| **Rock-Ogre Brawler** | 600638 | Mob | 32922 | Dark Rune Champion (32922) |
-| **Rock-Ogre Flesheater** | 600639 | Mob | 33755 | Dark Rune Ravager (33755) |
-| **Rock-Ogre Hurler** | 600640 | Mob | 32877 | Dark Rune Warbringer (32877) |
-| **Rock-Ogre Lobber** | 600641 | Mob | 32878 | Dark Rune Evoker (32878) |
-| **Rock-Ogre Wildarm** | 600642 | Mob | 16981 | Plagued Guardian (16981) |
-
----
-
-### **Quel'Thalas Island**
-> *On Quel'Thalas Island, the Bloodsail pirates, led by Fleet Master Skaldron and the cunning Lithianawan, have claimed the shores. Their crew, from Swashbucklers to Warlocks, terrorize the seas with dark magic and ruthless tactics. The island is a haven for Sea Dogs and Elders of the Bloodsail, who seek to plunder the ancient secrets hidden within.*
-
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Bloodsail Raider        | 600643       | Mob      |
-| Bloodsail Swashbuckler  | 600644       | Mob      |
-| Bloodsail Warlock       | 600645       | Mob      |
-| Bloodsail Sea Dog       | 600646       | Mob      |
-| Bloodsail Elder Magus   | 600647       | Mob      |
-| **Fleet Master Skaldron** | **600648**   | **Boss** |
-| **Lithianawan**         | **600649**   | **Boss** |
-
----
-
-### **Newman's Landing**
-> *At Newman's Landing, the Deadwood tribe, led by Chieftain Coldpaw and Overlord Rigto, stands ready to defend their cursed land. Warriors, Pathfinders, and Shamans gather, while Avenger's thirst for vengeance echoes through the woods. The once peaceful area now teems with malevolent forces, as the Deadwood seek to expand their dark influence.*
-
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Deadwood Warrior        | 600650       | Mob      |
-| Deadwood Gardener       | 600651       | Mob      |
-| Deadwood Pathfinder     | 600652       | Mob      |
-| Deadwood Avenger        | 600653       | Mob      |
-| Deadwood Shaman         | 600654       | Mob      |
-| **Chieftain Coldpaw**  | **600655**   | **Boss** |
-| **Overlord Rigto**        | **600656**   | **Boss** |
-
----
-
-### **Stonetalon Ruins**
-> *In the crumbling Stonetalon Ruins, the Venture Co. has set up camp, led by the merciless Foreman Snivey and the mechanical monstrosity Ruin Smasher X-98. Shredders, Taskmasters, and Enforcers swarm the area, eager to strip the ruins of their treasures. The once sacred ground now echoes with the hum of machines and the cries of those who dare resist.*
-
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Venture Co. Shredder    | 600657       | Mob      |
-| Venture Co. Taskmaster  | 600658       | Mob      |
-| Venture Co. Ruffian     | 600659       | Mob      |
-| Venture Co. Enforcer    | 600660       | Mob      |
-| Venture Co. Tinkerer    | 600661       | Mob      |
-| **Nessie**              | **600662**   | **Boss** |
-| **Ruin Smasher X-98**   | **600663**   | **Boss** |
-| **Foreman Snivey**      | **600664**   | **Boss** |
-
----
-
-### **Altar of Storms**
+### Altar of Storms
+<a href="JustForLooks/LoadScreenAltarofStorms.png"><img src="JustForLooks/LoadScreenAltarofStorms.png" width="200"></a>
 > *At the Altar of Storms, dark forces gather under the command of Lord Zul'etekk and Rugoldt The Corrupt. Felhounds, Terrorfiends, and Eredar Sorcerers twist the air with dark magic, while Wrathguards and Soul-Eaters guard the ancient site. The altar, long a source of forbidden power, hums with ominous energy as these demons seek to unleash chaos upon the world.*
-
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Felhound Manastalker     | 600665       | Mob      |
-| Terrorfiend             | 600666       | Mob      |
-| Hederine Slayer         | 600667       | Mob      |
-| Eredar Sorcerer         | 600668       | Mob      |
-| Eredar Soul-Eater       | 600669       | Mob      |
-| Wrathguard              | 600670       | Mob      |
-| **Lord Zul'etekk**      | **600671**   | **Boss** |
-| **Rugoldt The Corrupt** | **600672**   | **Boss** |
-
----
-
-### **Forgotten Gnome Camp**
-> *The Forgotten Gnome Camp has fallen to the brutal Rockjaw clan, led by the savage Grurvuch and the cunning Scervig. Flameweavers and Shamans channel destructive magic, while Backbreakers and Brawlers crush all who oppose them. Once a place of invention, the camp is now overrun with violence and chaos.*
-
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Rockjaw Flameweaver     | 600673       | Mob      |
-| Rockjaw Seer            | 600674       | Mob      |
-| Rockjaw Backbreaker     | 600675       | Mob      |
-| Rockjaw Shaman          | 600676       | Mob      |
-| Rockjaw Raider          | 600677       | Mob      |
-| Rockjaw Brawler         | 600678       | Mob      |
-| **Grurvuch**            | **600679**   | **Boss** |
-| **Scervig**             | **600680**   | **Boss** |
-
----
-
-### **Demon Hunter Cove**  
-> *Within the dark and foreboding Demon Hunter Cove, three leaders—Axlenar, Lorthan, and Prince Sshekj—conspire to unleash chaos upon the world. Surrounded by their loyal Initiates, Supplicants, and Felrage forces, the cove is alive with ritual chants and the clash of weapons as they prepare for war.*
-
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Demon Hunter Initiate   | 600685       | Mob      |
-| Demon Hunter Supplicant | 600684       | Mob      |
-| Felrage Demon Hunter    | 600683       | Mob      |
-| Felrage Soothsayer      | 600682       | Mob      |
-| Felrage Defender        | 600681       | Mob      |
-| **Axlenar**             | **600688**   | **Boss** |
-| **Lorthan**             | **600687**   | **Boss** |
-| **Prince Sshekj**       | **600686**   | **Boss** | 
-
---- 
-
-### **Arathi Highlands Farm**  
-> *Nestled within the desolate expanse of the Arathi Highlands, the farm is overrun by Scourge forces. Here, twisted necromancers and their ghastly creations sow death and decay, preparing for the resurgence of their dark power. Amid the chaos, three powerful figures—Ghubo, Rhulk the Diseased, and Savathûn, The Redeemer—command the corrupted horde, threatening to spread their plague beyond the Highlands.*
-
-| **Enemy**               | **Entry ID** | **Type** |
-|-------------------------|--------------|----------|
-| Scourge Adept           | 600689       | Mob      |
-| Scourge Necromancer     | 600690       | Mob      |
-| Scourge Plaguebringer   | 600691       | Mob      |
-| Scourged Overseer       | 600692       | Mob      |
-| Plagued Ghoul           | 600693       | Mob      |
-| Frenzied Abomination    | 600694       | Mob      |
-| Plaguehound             | 600695       | Mob      |
-| Infected Wildlife       | 600696       | Mob      |
-| Plagued Maggot          | 600697       | Mob      |
-| **Ghubo**               | **600698**   | **Boss** |
-| **Rhulk The Diseased**  | **600699**   | **Boss** |
-| **Savathûn, The Redeemer** | **600700** | **Boss** | 
-
----
-
-### **Stonetalon Logging Camp**  
-> *Nestled deep in the forest of Stonetalon Mountains, the logging camp is run by the ruthless Venture Co. who have cut down the natural flora to fuel their operations. Led by Overlord Snivey and Overlord Moosh, these timber thieves use their brute strength and technological creations to force their will on the environment. The camp is filled with savage mobs, all under the command of the overbearing overlords.*
 
 | **Enemy**                | **Entry ID** | **Type** |
 |--------------------------|--------------|----------|
-| Venture Co. Shredder      | 600657       | Mob      |
-| Venture Co. Taskmaster    | 600658       | Mob      |
-| Venture Co. Ruffian       | 600659       | Mob      |
-| Venture Co. Enforcer      | 600660       | Mob      |
-| Venture Co. Tinkerer      | 600661       | Mob      |
-| **Nessie**                | **600662**   | **Boss** |
-| **Overlord Snivey**       | **600701**   | **Boss** |
-| **Overlord Moosh**        | **600702**   | **Boss** |
+| Felhound Manastalker     | 600665       | Mob      |
+| Terrorfiend              | 600666       | Mob      |
+| Hederine Slayer          | 600667       | Mob      |
+| Eredar Sorcerer          | 600668       | Mob      |
+| Eredar Soul-Eater        | 600669       | Mob      |
+| Wrathguard               | 600670       | Mob      |
+| **Lord Zul'etekk**       | **600671**   | **BOSS (Scripted)** |
+| **Rugoldt The Corrupt**  | **600672**   | **BOSS (Scripted)** |
+---
 
+### Arathi Highlands Farm
+<a href="JustForLooks/LoadScreenArathiFarm.png"><img src="JustForLooks/LoadScreenArathiFarm.png" width="200"></a>
+> *Nestled within the desolate expanse of the Arathi Highlands, the farm is overrun by Scourge forces. Here, twisted necromancers and their ghastly creations sow death and decay, preparing for the resurgence of their dark power. Amid the chaos, three powerful figures—Ghubo, Rhulk the Diseased, and Savathûn, The Redeemer—command the corrupted horde, threatening to spread their plague beyond the Highlands.*
+
+| **Enemy**                  | **Entry ID** | **Type**            |
+|----------------------------|--------------|---------------------|
+| Scourge Adept              | 600689       | Mob                 |
+| Scourge Necromancer        | 600690       | Mob                 |
+| Scourge Plaguebringer      | 600691       | Mob                 |
+| Scourged Overseer          | 600692       | Mob                 |
+| Plagued Ghoul              | 600693       | Mob                 |
+| Frenzied Abomination       | 600694       | Mob                 |
+| Plaguehound                | 600695       | Mob                 |
+| Infected Wildlife          | 600696       | Mob                 |
+| Plagued Maggot             | 600697       | Mob                 |
+| **Ghubo**                  | **600698**   | **BOSS (Scripted)** |
+| **Rhulk The Diseased**     | **600699**   | **BOSS (Scripted)** |
+| **Savathûn, The Redeemer** | **600700**   | **BOSS (Scripted)** |
+---
+
+### Blackchar Cave
+<a href="JustForLooks/LoadScreenBlackcharCave.png"><img src="JustForLooks/LoadScreenBlackcharCave.png" width="200"></a>
+> *Deep within Blackchar Cave, the brutish Favargair Ogre-Keeper reigns over his savage army of Rock-Ogres. Hillmen Defenders guard the entrance, while Brawlers, Flesheaters, and Hurlers lie in wait, ready to crush any intruders. The dark cave echoes with the sound of crashing stone as these monstrous creatures prepare for battle.*
+
+| **Enemy**                | **Entry ID** | **Type**            |
+|--------------------------|--------------|---------------------|
+| **Favargair Ogre-Keeper**| **600636**   | **BOSS (Scripted)** |
+| Hillmen Defender         | 600637       | Mob                 |
+| Rock-Ogre Brawler        | 600638       | Mob                 |
+| Rock-Ogre Flesheater     | 600639       | Mob                 |
+| Rock-Ogre Hurler         | 600640       | Mob                 |
+| Rock-Ogre Lobber         | 600641       | Mob                 |
+| Rock-Ogre Wildarm        | 600642       | Mob                 |
+---
+
+### Demon Hunter Cove
+<a href="JustForLooks/LoadScreenDemonhunterCove.png"><img src="JustForLooks/LoadScreenDemonhunterCove.png" width="200"></a>
+> *Within the dark and foreboding Demon Hunter Cove, three leaders—Axlenar, Lorthan, and Prince Sshekj—conspire to unleash chaos upon the world. Surrounded by their loyal Initiates, Supplicants, and Felrage forces, the cove is alive with ritual chants and the clash of weapons as they prepare for war.*
+
+| **Enemy**                  | **Entry ID** | **Type** |
+|----------------------------|--------------|----------|
+| Felrage Defender           | 600681       | Mob      |
+| Felrage Soothsayer         | 600682       | Mob      |
+| Felrage Demon Hunter       | 600683       | Mob      |
+| Demon Hunter Supplicant    | 600684       | Mob      |
+| Demon Hunter Initiate      | 600685       | Mob      |
+| **Prince Sshekj**          | **600686**   | **Boss** |
+| **Lorthan**                | **600687**   | **Boss** |
+| **Axlenar**                | **600688**   | **Boss** |
+---
+
+### Elwynn Falls
+<a href="JustForLooks/LoadScreenElwynnFalls.png"><img src="JustForLooks/LoadScreenElwynnFalls.png" width="200"></a>
+> *At Elwynn Falls, a deadly alliance of Naga and Murlocs, led by Lord Mwargadon and Gurlgles, threatens the land. Darkcrest Taskmasters and Sorceresses command their forces, while Murloc Tidecallers and Hunters wreak havoc on the shores. The falls are plagued by Coilfang Elementals, and a dark power stirs beneath the waters.*
+
+| **Enemy**                  | **Entry ID** | **Type**            |
+|----------------------------|--------------|---------------------|
+| Darkcrest Taskmaster       | 600624       | Mob                 |
+| Darkcrest Siren            | 600625       | Mob                 |
+| Bloodscale Wavecaller      | 600626       | Mob                 |
+| Darkcrest Sorceress        | 600627       | Mob                 |
+| Darkcrest Sentry           | 600628       | Mob                 |
+| Murloc Tidecaller          | 600629       | Mob                 |
+| Murloc Oracle              | 600630       | Mob                 |
+| Murloc Hunter              | 600631       | Mob                 |
+| Coilfang Water Elemental   | 600632       | Mob                 |
+| **Lord Mwargadon**         | **600633**   | **BOSS (Scripted)** |
+| **Gurlgles**               | **600634**   | **BOSS (Scripted)** |
+| **Aquaspawn**              | **600635**   | **BOSS (Scripted)** |
+---
+
+### Forgotten Gnome Camp
+<a href="JustForLooks/LoadScreenForgottenGnomeCamp.png"><img src="JustForLooks/LoadScreenForgottenGnomeCamp.png" width="200"></a>
+> *The Forgotten Gnome Camp has fallen to the brutal Rockjaw clan, led by the savage Grurvuch and the cunning Scervig. Flameweavers and Shamans channel destructive magic, while Backbreakers and Brawlers crush all who oppose them. Once a place of invention, the camp is now overrun with violence and chaos.*
+
+| **Enemy**                | **Entry ID** | **Type** |
+|--------------------------|--------------|----------|
+| Rockjaw Flameweaver      | 600673       | Mob      |
+| Rockjaw Seer             | 600674       | Mob      |
+| Rockjaw Backbreaker      | 600675       | Mob      |
+| Rockjaw Shaman           | 600676       | Mob      |
+| Rockjaw Raider           | 600677       | Mob      |
+| Rockjaw Brawler          | 600678       | Mob      |
+| **Grurvuch**             | **600679**   | **BOSS (Scripted)** |
+| **Scervig**              | **600680**   | **BOSS (Scripted)** |
+---
+
+### Newman's Landing
+<a href="JustForLooks/LoadScreenNewmansLanding.png"><img src="JustForLooks/LoadScreenNewmansLanding.png" width="200"></a>
+> *At Newman's Landing, the Deadwood tribe, led by Chieftain Coldpaw and Overlord Rigto, stands ready to defend their cursed land. Warriors, Pathfinders, and Shamans gather, while Avenger's thirst for vengeance echoes through the woods. The once peaceful area now teems with malevolent forces, as the Deadwood seek to expand their dark influence.*
+
+| **Enemy**                | **Entry ID** | **Type** |
+|--------------------------|--------------|----------|
+| Deadwood Warrior         | 600650       | Mob      |
+| Deadwood Gardener        | 600651       | Mob      |
+| Deadwood Pathfinder      | 600652       | Mob      |
+| Deadwood Avenger         | 600653       | Mob      |
+| Deadwood Shaman          | 600654       | Mob      |
+| **Chieftain Coldpaw**    | **600655**   | **BOSS (Scripted)** |
+| **Overlord Rigto**       | **600656**   | **BOSS (Scripted)** |
+---
+
+### Old Ironforge
+> *Beneath Old Ironforge, the Dark Iron dwarves, led by Ehrirmos Coldrock and Rirruhm Brightfury, have returned to reclaim the ruins. With an army of Taskmasters, Raiders, and Shadowcasters, they seek to destroy Ironforge’s legacy. The tunnels are alive with rifle fire and explosions as they dig deeper into forgotten secrets.*
+
+| **Enemy**                | **Entry ID** | **Type** |
+|--------------------------|--------------|----------|
+| Dark Iron Taskmaster     | 600600       | Mob      |
+| Dark Iron Tunneler       | 600601       | Mob      |
+| Dark Iron Rifleman       | 600602       | Mob      |
+| Dark Iron Shadowcaster   | 600603       | Mob      |
+| Dark Iron Bombardier     | 600604       | Mob      |
+| Dark Iron Raider         | 600605       | Mob      |
+| Dark Iron Sapper         | 600606       | Mob      |
+| Dark Iron Demolitionist  | 600607       | Mob      |
+| Dark Iron Marksman       | 600608       | Mob      |
+| Dark Iron Sentry         | 600609       | Mob      |
+| Dark Iron Lookout        | 600610       | Mob      |
+| **Ehrirmos Coldrock**    | **600611**   | **Boss** |
+| **Rirruhm Brightfury**   | **600612**   | **Boss** |
+---
+
+### Quel'Thalas Island
+<a href="JustForLooks/LoadScreenQuelthalasIsland.png"><img src="JustForLooks/LoadScreenQuelthalasIsland.png" width="200"></a>
+> *On Quel'Thalas Island, the Bloodsail pirates, led by Fleet Master Skaldron and the cunning Lithianawan, have claimed the shores. Their crew, from Swashbucklers to Warlocks, terrorize the seas with dark magic and ruthless tactics. The island is a haven for Sea Dogs and Elders of the Bloodsail, who seek to plunder the ancient secrets hidden within.*
+
+| **Enemy**                | **Entry ID** | **Type**            |
+|--------------------------|--------------|---------------------|
+| Bloodsail Raider         | 600643       | Mob                 |
+| Bloodsail Swashbuckler   | 600644       | Mob                 |
+| Bloodsail Warlock        | 600645       | Mob                 |
+| Bloodsail Sea Dog        | 600646       | Mob                 |
+| Bloodsail Elder Magus    | 600647       | Mob                 |
+| **Fleet Master Skaldron**| **600648**   | **BOSS (Scripted)** |
+| **Lithianawan**          | **600649**   | **BOSS (Scripted)** |
+---
+
+### Sandfury Delve
+<a href="JustForLooks/LoadScreenSandfury.png"><img src="JustForLooks/LoadScreenSandfury.png" width="200"></a>
+> *Deep within the desert, the Sandfury trolls, led by Souse San Rhazon and Xantosh, practice forbidden magics. Their ranks are filled with Axe Throwers, Firecallers, and Shadowcasters, all bound to dark purposes. The air is thick with plague as they seek to awaken ancient powers beneath the sand.*
+
+| **Enemy**                | **Entry ID** | **Type** |
+|--------------------------|--------------|----------|
+| Sandfury Axe Thrower     | 600613       | Mob      |
+| Sandfury Firecaller      | 600614       | Mob      |
+| Sandfury Shadowcaster    | 600615       | Mob      |
+| Sandfury Blood Drinker   | 600616       | Mob      |
+| Sandfury Witch Doctor    | 600617       | Mob      |
+| Sandfury Executioner     | 600618       | Mob      |
+| Sandfury Plague Spreader | 600619       | Mob      |
+| Sandfury Shadowhunter    | 600620       | Mob      |
+| **Souse San Rhazon**     | **600621**   | **BOSS (Scripted)** |
+| **Xantosh**              | **600622**   | **BOSS (Scripted)** |
+| **Chief Runetusk**       | **600623**   | **BOSS (Scripted)** |
+---
+
+### Stonetalon Logging Camp
+<a href="JustForLooks/LoadScreenStonetalonLoggingCamp.png"><img src="JustForLooks/LoadScreenStonetalonLoggingCamp.png" width="200"></a>
+> *Nestled deep in the forest of Stonetalon Mountains, the logging camp is run by the ruthless Venture Co. who have cut down the natural flora to fuel their operations. Led by Overlord Snivey and Overlord Moosh, these timber thieves use their brute strength and technological creations to force their will on the environment.*
+
+| **Enemy**                | **Entry ID** | **Type** |
+|--------------------------|--------------|----------|
+| Venture Co. Shredder     | 600657       | Mob      |
+| Venture Co. Taskmaster   | 600658       | Mob      |
+| Venture Co. Ruffian      | 600659       | Mob      |
+| Venture Co. Enforcer     | 600660       | Mob      |
+| Venture Co. Tinkerer     | 600661       | Mob      |
+| **Overlord Snivey**      | **600701**   |  **BOSS (Scripted)** |
+| **Overlord Moosh**       | **600702**   |  **BOSS (Scripted)** |
+---
+
+### Stonetalon Ruins
+<a href="JustForLooks/LoadScreenStonetalonRuins.png"><img src="JustForLooks/LoadScreenStonetalonRuins.png" width="200"></a>
+> *In the crumbling Stonetalon Ruins, the Venture Co. has set up camp, led by the merciless Foreman Snivey and the mechanical monstrosity Ruin Smasher X-98. Shredders, Taskmasters, and Enforcers swarm the area, eager to strip the ruins of their treasures. The once sacred ground now echoes with the hum of machines and the cries of those who dare resist.*
+
+| **Enemy**                | **Entry ID** | **Type** |
+|--------------------------|--------------|----------|
+| Venture Co. Shredder     | 600657       | Mob      |
+| Venture Co. Taskmaster   | 600658       | Mob      |
+| Venture Co. Ruffian      | 600659       | Mob      |
+| Venture Co. Enforcer     | 600660       | Mob      |
+| Venture Co. Tinkerer     | 600661       | Mob      |
+| **Nessie**               | **600662**   | **BOSS (Scripted)** |
+| **Ruin Smasher X-98**    | **600663**   | **BOSS (Scripted)** |
+| **Foreman Glitzbolt**       | **600664**   | **BOSS (Scripted)** |
 ---
 
 ## **Game Objects List**
 
-Here is a list of Game Objects, their names, and their entry IDs:
-
-| **Location**         | **GameObject Name**      | **ID**   |
-|----------------------|--------------------------|----------|
-| Sandfury Delve       | Campfire                 | 1799     |
-| Sandfury Delve       | Sen'jin Tent             | 202886   |
-| Sandfury Delve       | Melon Juice Barrel       | 3659     |
-| Sandfury Delve       | Food Crate               | 3695     |
-| Sandfury Delve       | Troll Skull Pile         | 185167   |
-| Sandfury Delve       | Beer Wagon               | 186250   |
-| Quel'Thalas Island   | Beer Wagon               | 186250   |
-| Quel'Thalas Island   | Pirate Flag              | 187083   |
-| Quel'Thalas Island   | Free Standing Torch      | 180043   |
-| **All DELVES**       | **Token Chest**              | **130000**   |
-
-
+| Map | Location | GameObject Name | ID |
+| :--- | :--- | :--- | :--- |
+| **All** | **Global** | **Delve Chest** | **130000** |
+| 905 | Sandfury Delve | Troll Bonfire | 20977 |
+| 905 | Sandfury Delve | Beer Wagon | 186250 |
+| 905 | Sandfury Delve | Campfire | 1799 |
+| 905 | Sandfury Delve | Barrel of Melon Juice | 3659 |
+| 905 | Sandfury Delve | Food Crate | 3695 |
+| 905 | Sandfury Delve | Troll Skull Pile | 185167 |
+| 905 | Sandfury Delve | Sen'jin Tent | 202886 |
+| 908 | Quel'Thalas Island | Free Standing Torch | 180043 |
+| 908 | Quel'Thalas Island | Beer Wagon | 186250 |
+| 908 | Quel'Thalas Island | Campfire | 1801 |
+| 908 | Quel'Thalas Island | Pirate Flag | 187083 |
+| 900 | Stonetalon Ruins | Bomb Stack Inactive | 193401 |
+| 900 | Stonetalon Ruins | Barrel of Powder | 1670 |
+| 900 | Stonetalon Ruins | Rocket Delivery System | 201906 |
+| 900 | Stonetalon Ruins | Charred Remains | 184445 |
+| 900 | Stonetalon Ruins | Hardpacked Explosive Bundle | 191841 |
+| 900 | Stonetalon Ruins | Big Wagon Full of Explosives | 184700 |
+| 900 | Stonetalon Ruins | DANGER: EXPLOSIVES! (Sign) | 192787 |
+| 900 | Stonetalon Ruins | Cannon - 0.50 | 190228 |
+| 900 | Stonetalon Ruins | Dark Iron Mole Machine | 186763 |
+| 900 | Stonetalon Ruins | Highland Mixed School | 182957 |
+| 900 | Stonetalon Ruins | Strange Pool | 184845 |
 
 
