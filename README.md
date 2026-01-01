@@ -31,6 +31,7 @@
 ## **Enemy List**
 
 ### Altar of Storms
+<a href="JustForLooks/LoadScreenAltarofStorms.png"><img src="JustForLooks/LoadScreenAltarofStorms.png" width="200" alt="Altar of Storms"></a>
 > *At the Altar of Storms, dark forces gather under the command of Lord Zul'etekk and Rugoldt The Corrupt. Felhounds, Terrorfiends, and Eredar Sorcerers twist the air with dark magic, while Wrathguards and Soul-Eaters guard the ancient site. The altar, long a source of forbidden power, hums with ominous energy as these demons seek to unleash chaos upon the world.*
 
 | **Enemy**                | **Entry ID** | **Type** |
