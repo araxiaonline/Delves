@@ -240,29 +240,28 @@ Here is a list of Game Objects, their names, and their entry IDs:
 | **Location** | **GameObject Name** | **ID** |
 | :--- | :--- | :--- |
 | **All DELVES** | **Delve Chest** | **130000** |
-| **Sandfury Delve** | Troll Bonfire | 20977 |
-| **Sandfury Delve** | Beer Wagon | 186250 |
-| **Sandfury Delve** | Campfire | 1799 |
-| **Sandfury Delve** | Barrel of Melon Juice | 3659 |
-| **Sandfury Delve** | Food Crate | 3695 |
-| **Sandfury Delve** | Troll Skull Pile | 185167 |
-| **Sandfury Delve** | Sen'jin Tent | 202886 |
-| **Quel'Thalas Island** | Free Standing Torch | 180043 |
-| **Quel'Thalas Island** | Beer Wagon | 186250 |
-| **Quel'Thalas Island** | Campfire | 1801 |
-| **Quel'Thalas Island** | Pirate Flag | 187083 |
-| **Stonetalon Ruins** | Bomb Stack Inactive | 193401 |
-| **Stonetalon Ruins** | Barrel of Powder | 1670 |
-| **Stonetalon Ruins** | Rocket Delivery System | 201906 |
-| **Stonetalon Ruins** | Charred Remains | 184445 |
-| **Stonetalon Ruins** | Hardpacked Explosive Bundle | 191841 |
-| **Stonetalon Ruins** | Big Wagon Full of Explosives | 184700 |
-| **Stonetalon Ruins** | DANGER: EXPLOSIVES! (Sign) | 192787 |
-| **Stonetalon Ruins** | Cannon - 0.50 | 190228 |
-| **Stonetalon Ruins** | Dark Iron Mole Machine | 186763 |
-| **Stonetalon Ruins** | Highland Mixed School | 182957 |
-| **Stonetalon Ruins** | Strange Pool | 184845 |
-
+| Sandfury Delve | Troll Bonfire | 20977 |
+| Sandfury Delve | Beer Wagon | 186250 |
+| Sandfury Delve | Campfire | 1799 |
+| Sandfury Delve | Barrel of Melon Juice | 3659 |
+| Sandfury Delve | Food Crate | 3695 |
+| Sandfury Delve | Troll Skull Pile | 185167 |
+| Sandfury Delve | Sen'jin Tent | 202886 |
+| Quel'Thalas Island | Free Standing Torch | 180043 |
+| Quel'Thalas Island | Beer Wagon | 186250 |
+| Quel'Thalas Island | Campfire | 1801 |
+| Quel'Thalas Island | Pirate Flag | 187083 |
+| Stonetalon Ruins | Bomb Stack Inactive | 193401 |
+| Stonetalon Ruins | Barrel of Powder | 1670 |
+| Stonetalon Ruins | Rocket Delivery System | 201906 |
+| Stonetalon Ruins | Charred Remains | 184445 |
+| Stonetalon Ruins | Hardpacked Explosive Bundle | 191841 |
+| Stonetalon Ruins | Big Wagon Full of Explosives | 184700 |
+| Stonetalon Ruins | DANGER: EXPLOSIVES! (Sign) | 192787 |
+| Stonetalon Ruins | Cannon - 0.50 | 190228 |
+| Stonetalon Ruins | Dark Iron Mole Machine | 186763 |
+| Stonetalon Ruins | Highland Mixed School | 182957 |
+| Stonetalon Ruins | Strange Pool | 184845 |
 
 
 
