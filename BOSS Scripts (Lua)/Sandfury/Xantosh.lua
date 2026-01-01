@@ -1,7 +1,51 @@
 --------------------------------------------------------------------------------
--- Xan'tosh (Sandfury Delve Boss 2) - DOUBLE UNDEAD SCARABS (17235 x2)
+-- Xan'tosh - Sandfury Delve Boss (Scarab Summoner)
 -- NPC ID: 600622
+-- Created by: Manmadedrummer | Delve System
 --------------------------------------------------------------------------------
+-- DESCRIPTION:
+-- Ancient Sandfury necromancer - master of undead scarabs and plague magic
+-- Summons DOUBLE scarabs at key thresholds with visual swarm effects
+-- Vanilla/AQ40 retail-style with progressive add waves and hex combos
+-- 
+-- PHASE 1 (100% - 90%): Basic plague/sand rotation
+-- PHASE 2 (90% - 70%): Demon Armor + Voodoo Flames + 2x Scarabs summoned
+-- PHASE 3 (70% - 30%): Blood Drain activated
+-- PHASE 4 (<30%): Sand Storm spam + 2x MORE Scarabs (4 total possible)
+--
+-- ABILITIES:
+-- - Plague Strike: Disease damage on tank (constant)
+-- - Sand Breath: Breath weapon on tank (constant)
+-- - Dark Smash: Heavy melee hit (constant)
+-- - Hex of Mending: Healing reduction curse (every 30s)
+-- - Hex of Ravenclaw: Damage increase curse (combo with Mending)
+-- - Blood Drain: Life steal from random player (P3+)
+-- - Demon Armor: Protective fel buff (P2)
+-- - Voodoo Flames: Fire damage aura (P2)
+-- - Crypt Scarabs: Visual swarm effect
+-- - Raise Undead Scarab: Summons scarab add (x2 per phase!)
+-- - Sand Storm: Massive AOE sandstorm (P4)
+--
+-- MECHANICS:
+-- - GUIDLow-safe phase tracking (supports multiple spawns)
+-- - Double scarab summons create 2 adds instantly per trigger
+-- - Hex combo applies two debuffs simultaneously
+-- - Blood Drain creates sustain pressure
+-- - Visual swarm effect accompanies scarab summons
+-- - No memory leaks (proper cleanup on reset/death)
+--
+-- RETAIL-LIKE FEATURES:
+-- - Scarab summons similar to AQ40 (C'Thun, Viscidus trash)
+-- - Hex mechanics similar to Hex Lord Malacrass (ZA)
+-- - Progressive add waves increase difficulty
+-- - Sand Storm zone control forces movement
+--
+-- DIFFICULTY: Delve Boss (Solo Fight)
+-- LEVEL: 83-85
+-- MAP: Sandfury Delve (Map ID: 905)
+-- ADDS: Up to 4x Undead Scarabs possible (NPC 17235)
+--------------------------------------------------------------------------------
+
 print("Sandfury Delve Boss 2 - Xan'tosh Loaded")
 
 local BOSS_ID = 600622
@@ -25,7 +69,7 @@ local SPELL_CRYPT_SCARABS    = 54313   -- Visual swarm
 local SPELL_RAISE_SCARAB     = 17235   -- Raise Undead Scarab (x2!)
 local SPELL_BLOOD_DRAIN      = 41238
 
--- Per-fight phase tracking
+-- GUIDLow-safe phase tracking
 local phases = {}
 
 local function GetTank(creature)        return creature:GetAITarget(1, true) end
@@ -62,28 +106,31 @@ local function SummonDoubleScarabs(creature)
     creature:CastSpell(creature, SPELL_RAISE_SCARAB, true)     -- 2nd scarab (instant)
 end
 
--- SINGLE PHASE CHECKER
+-- PHASE CHECKER - GUIDLow-safe
 local function PhaseCheck(eventId, delay, calls, creature)
     if not creature:IsInCombat() or creature:IsDead() then
         creature:RemoveEventById(eventId)
         return
     end
 
+    local guid = creature:GetGUIDLow()
+    phases[guid] = phases[guid] or {}
+    local p = phases[guid]
     local hp = creature:GetHealthPct()
 
-    if hp <= HP_PHASE_4 and not phases[4] then
-        phases[4] = true
+    if hp <= HP_PHASE_4 and not p[4] then
+        p[4] = true
         creature:SendUnitYell("Xan'tosh's power unmatched! Ya finished, little insects!", 0)
         SummonDoubleScarabs(creature)           -- 2 scarabs + swarm
         creature:RegisterEvent(CastSandStorm, 30000, 0)
 
-    elseif hp <= HP_PHASE_3 and not phases[3] then
-        phases[3] = true
+    elseif hp <= HP_PHASE_3 and not p[3] then
+        p[3] = true
         creature:SendUnitYell("Ya blood feeds me now! Taste da drain!", 0)
         CastBloodDrain(0,0,0,creature)
 
-    elseif hp <= HP_PHASE_2 and not phases[2] then
-        phases[2] = true
+    elseif hp <= HP_PHASE_2 and not p[2] then
+        p[2] = true
         creature:SendUnitYell("Da ancient gods stir beneath da sand... RISE, MY CHILDREN!", 0)
         creature:CastSpell(creature, SPELL_DEMON_ARMOR, true)
         creature:CastSpell(creature, SPELL_VOODOO_FLAMES, true)
@@ -94,7 +141,9 @@ end
 -- Combat Start
 local function OnEnterCombat(event, creature, target)
     creature:SendUnitYell("Da plague an' da sand gonna swallow ya whole, mon!", 0)
-    phases = {}
+    
+    local guid = creature:GetGUIDLow()
+    phases[guid] = {}
 
     creature:RegisterEvent(function(_,_,_,c)
         if c:IsInCombat() then local t = GetTank(c); if t then c:CastSpell(t, SPELL_PLAGUE_STRIKE, true) end end
@@ -114,15 +163,15 @@ local function OnEnterCombat(event, creature, target)
 end
 
 local function OnLeaveCombat(event, creature)
-    creature:SendUnitYell("Da rot claims another day...", 0)
     creature:RemoveEvents()
-    phases = {}
+    creature:SendUnitYell("Da rot claims another day...", 0)
+    phases[creature:GetGUIDLow()] = nil
 end
 
 local function OnDied(event, creature, killer)
     creature:RemoveEvents()
     creature:SendUnitYell("Da rot... it finally takes me... but da curse lives on...", 0)
-    phases = {}
+    phases[creature:GetGUIDLow()] = nil
 end
 
 RegisterCreatureEvent(BOSS_ID, 1, OnEnterCombat)
