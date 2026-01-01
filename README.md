@@ -219,7 +219,7 @@
 
 ### Stonetalon Ruins
 <a href="JustForLooks/LoadScreenStonetalonRuins.png"><img src="JustForLooks/LoadScreenStonetalonRuins.png" width="200"></a>
-> *In the crumbling Stonetalon Ruins, the Venture Co. has set up camp, led by the merciless Foreman Snivey and the mechanical monstrosity Ruin Smasher X-98. Shredders, Taskmasters, and Enforcers swarm the area, eager to strip the ruins of their treasures. The once sacred ground now echoes with the hum of machines and the cries of those who dare resist.*
+> *In the crumbling Stonetalon Ruins, the Venture Co. has set up camp, led by the merciless Foreman Glitzbolt and the mechanical monstrosity Ruin Smasher X-98. Shredders, Taskmasters, and Enforcers swarm the area, eager to strip the ruins of their treasures. The once sacred ground now echoes with the hum of machines and the cries of those who dare resist.*
 
 | **Enemy**                | **Entry ID** | **Type** |
 |--------------------------|--------------|----------|
