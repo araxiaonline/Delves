@@ -31,7 +31,7 @@
 ## **Enemy List**
 
 ### Altar of Storms
-<a href="JustForLooks/LoadScreenAltarofStorms.png"><img src="JustForLooks/LoadScreenAltarofStorms.png" width="200" alt="Altar of Storms"></a>
+<a href="JustForLooks/LoadScreenAltarofStorms.png"><img src="JustForLooks/LoadScreenAltarofStorms.png" width="200"></a>
 > *At the Altar of Storms, dark forces gather under the command of Lord Zul'etekk and Rugoldt The Corrupt. Felhounds, Terrorfiends, and Eredar Sorcerers twist the air with dark magic, while Wrathguards and Soul-Eaters guard the ancient site. The altar, long a source of forbidden power, hums with ominous energy as these demons seek to unleash chaos upon the world.*
 
 | **Enemy**                | **Entry ID** | **Type** |
@@ -67,6 +67,7 @@
 ---
 
 ### Blackchar Cave
+<a href="JustForLooks/LoadScreenBlackcharCave.png"><img src="JustForLooks/LoadScreenBlackcharCave.png" width="200"></a>
 > *Deep within Blackchar Cave, the brutish Favargair Ogre-Keeper reigns over his savage army of Rock-Ogres. Hillmen Defenders guard the entrance, while Brawlers, Flesheaters, and Hurlers lie in wait, ready to crush any intruders. The dark cave echoes with the sound of crashing stone as these monstrous creatures prepare for battle.*
 
 | **Enemy**                | **Entry ID** | **Type**            |
@@ -81,6 +82,7 @@
 ---
 
 ### Demon Hunter Cove
+<a href="JustForLooks/LoadScreenDemonhunterCove.png"><img src="JustForLooks/LoadScreenDemonhunterCove.png" width="200"></a>
 > *Within the dark and foreboding Demon Hunter Cove, three leaders—Axlenar, Lorthan, and Prince Sshekj—conspire to unleash chaos upon the world. Surrounded by their loyal Initiates, Supplicants, and Felrage forces, the cove is alive with ritual chants and the clash of weapons as they prepare for war.*
 
 | **Enemy**                  | **Entry ID** | **Type** |
@@ -96,6 +98,7 @@
 ---
 
 ### Elwynn Falls
+<a href="JustForLooks/LoadScreenElwynnFalls.png"><img src="JustForLooks/LoadScreenElwynnFalls.png" width="200"></a>
 > *At Elwynn Falls, a deadly alliance of Naga and Murlocs, led by Lord Mwargadon and Gurlgles, threatens the land. Darkcrest Taskmasters and Sorceresses command their forces, while Murloc Tidecallers and Hunters wreak havoc on the shores. The falls are plagued by Coilfang Elementals, and a dark power stirs beneath the waters.*
 
 | **Enemy**                  | **Entry ID** | **Type**            |
@@ -115,6 +118,7 @@
 ---
 
 ### Forgotten Gnome Camp
+<a href="JustForLooks/LoadScreenForgottenGnomeCamp.png"><img src="JustForLooks/LoadScreenForgottenGnomeCamp.png" width="200"></a>
 > *The Forgotten Gnome Camp has fallen to the brutal Rockjaw clan, led by the savage Grurvuch and the cunning Scervig. Flameweavers and Shamans channel destructive magic, while Backbreakers and Brawlers crush all who oppose them. Once a place of invention, the camp is now overrun with violence and chaos.*
 
 | **Enemy**                | **Entry ID** | **Type** |
@@ -130,6 +134,7 @@
 ---
 
 ### Newman's Landing
+<a href="JustForLooks/LoadScreenNewmansLanding.png"><img src="JustForLooks/LoadScreenNewmansLanding.png" width="200"></a>
 > *At Newman's Landing, the Deadwood tribe, led by Chieftain Coldpaw and Overlord Rigto, stands ready to defend their cursed land. Warriors, Pathfinders, and Shamans gather, while Avenger's thirst for vengeance echoes through the woods. The once peaceful area now teems with malevolent forces, as the Deadwood seek to expand their dark influence.*
 
 | **Enemy**                | **Entry ID** | **Type** |
@@ -164,6 +169,7 @@
 ---
 
 ### Quel'Thalas Island
+<a href="JustForLooks/LoadScreenQuelthalasIsland.png"><img src="JustForLooks/LoadScreenQuelthalasIsland.png" width="200"></a>
 > *On Quel'Thalas Island, the Bloodsail pirates, led by Fleet Master Skaldron and the cunning Lithianawan, have claimed the shores. Their crew, from Swashbucklers to Warlocks, terrorize the seas with dark magic and ruthless tactics. The island is a haven for Sea Dogs and Elders of the Bloodsail, who seek to plunder the ancient secrets hidden within.*
 
 | **Enemy**                | **Entry ID** | **Type**            |
@@ -178,6 +184,7 @@
 ---
 
 ### Sandfury Delve
+<a href="JustForLooks/LoadScreenSandfury.png"><img src="JustForLooks/LoadScreenSandfury.png" width="200"></a>
 > *Deep within the desert, the Sandfury trolls, led by Souse San Rhazon and Xantosh, practice forbidden magics. Their ranks are filled with Axe Throwers, Firecallers, and Shadowcasters, all bound to dark purposes. The air is thick with plague as they seek to awaken ancient powers beneath the sand.*
 
 | **Enemy**                | **Entry ID** | **Type** |
@@ -196,6 +203,7 @@
 ---
 
 ### Stonetalon Logging Camp
+<a href="JustForLooks/LoadScreenStonetalonLoggingCamp.png"><img src="JustForLooks/LoadScreenStonetalonLoggingCamp.png" width="200"></a>
 > *Nestled deep in the forest of Stonetalon Mountains, the logging camp is run by the ruthless Venture Co. who have cut down the natural flora to fuel their operations. Led by Overlord Snivey and Overlord Moosh, these timber thieves use their brute strength and technological creations to force their will on the environment.*
 
 | **Enemy**                | **Entry ID** | **Type** |
@@ -210,6 +218,7 @@
 ---
 
 ### Stonetalon Ruins
+<a href="JustForLooks/LoadScreenStonetalonRuins.png"><img src="JustForLooks/LoadScreenStonetalonRuins.png" width="200"></a>
 > *In the crumbling Stonetalon Ruins, the Venture Co. has set up camp, led by the merciless Foreman Snivey and the mechanical monstrosity Ruin Smasher X-98. Shredders, Taskmasters, and Enforcers swarm the area, eager to strip the ruins of their treasures. The once sacred ground now echoes with the hum of machines and the cries of those who dare resist.*
 
 | **Enemy**                | **Entry ID** | **Type** |
