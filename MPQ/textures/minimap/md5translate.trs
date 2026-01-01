@@ -19101,25 +19101,23 @@ altarstorms\map36_55.blp	altarstorms_36_55.blp
 altarstorms\map37_55.blp	altarstorms_37_55.blp
 dir: blackcharcave
 blackcharcave\map27_27.blp	blackcharcave_27_27.blp
-dir: oldironforge
-oldironforge\map26_26.blp	oldironforge_26_26.blp
-oldironforge\map26_27.blp	oldironforge_26_27.blp
-oldironforge\map27_26.blp	oldironforge_27_26.blp
-oldironforge\map27_27.blp	oldironforge_27_27.blp
 dir: mustafar
 mustafar\map02_06.blp	mustafar_2_6.blp
 mustafar\map02_07.blp	mustafar_2_7.blp
 mustafar\map02_08.blp	mustafar_2_8.blp
 mustafar\map02_09.blp	mustafar_2_9.blp
-mustafar\map04_06.blp	mustafar_4_6.blp
-mustafar\map03_07.blp	mustafar_3_7.blp
 mustafar\map04_07.blp	mustafar_4_7.blp
 mustafar\map03_06.blp	mustafar_3_6.blp
-mustafar\map04_09.blp	mustafar_4_9.blp
+mustafar\map04_06.blp	mustafar_4_6.blp
+mustafar\map03_07.blp	mustafar_3_7.blp
 mustafar\map03_08.blp	mustafar_3_8.blp
-mustafar\map04_08.blp	mustafar_4_8.blp
+mustafar\map04_09.blp	mustafar_4_9.blp
 mustafar\map03_09.blp	mustafar_3_9.blp
+mustafar\map04_08.blp	mustafar_4_8.blp
 mustafar\map05_06.blp	mustafar_5_6.blp
 mustafar\map05_07.blp	mustafar_5_7.blp
 mustafar\map05_08.blp	mustafar_5_8.blp
 mustafar\map05_09.blp	mustafar_5_9.blp
+
+
+
