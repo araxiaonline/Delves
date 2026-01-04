@@ -137,7 +137,7 @@
 ### Mustafar
 <a href="JustForLooks/LoadScreenMustafar.png"><img src="JustForLooks/LoadScreenMustafar.png" width="200"></a>
 
-> *Deep within the volcanic wastes of Mustafar, rivers of molten fire carve through the blackened landscape where the ancient elemental lord Narul the Flameseeker commands legions of Molten War Golems, Lava Reavers, and Magma Ragers. Hellfire Imps dance among the flames while Lava Hounds prowl the obsidian corridors, and towering Molten Colossi guard the depths. But darker powers have also claimed this hellscape—armored Stormtroopers march in formation through the scorched halls, while three shadowy figures wielding crimson blades have made this volcanic realm their stronghold: the relentless bounty hunter Boba Fett, the unstable dark warrior Kylo Ren, and the dreaded dark lord Darth Vader himself, who commands from his fortress as molten rivers flow beneath.*
+> *Within the molten depths of Mustafar, the ancient elemental lord Narul the Flameseeker commands an army of Molten War Golems, Lava Reavers, and Magma Ragers. Hellfire Imps dance among the flames while Lava Hounds prowl the scorched halls. But darker forces have also claimed this volcanic realm—Stormtroopers march in formation alongside three deadly warriors: the bounty hunter Boba Fett, the unstable Kylo Ren, and the dreaded Darth Vader, who rules from his fortress as rivers of fire flow beneath.*
 
 | **Enemy** | **Entry ID** | **Type** |
 |-----------|--------------|----------|
