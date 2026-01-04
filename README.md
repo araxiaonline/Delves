@@ -133,6 +133,28 @@
 | **Scervig**              | **600680**   | **BOSS (Scripted)** |
 ---
 
+### Mustafar
+<a href="JustForLooks/LoadScreenMustafar.png"><img src="JustForLooks/LoadScreenMustafar.png" width="200"></a>
+
+> *Deep within the volcanic wastes of Mustafar, rivers of molten fire carve through the blackened landscape where the ancient elemental lord Narul the Flameseeker commands legions of Molten War Golems, Lava Reavers, and Magma Ragers. Hellfire Imps dance among the flames while Lava Hounds prowl the obsidian corridors, and towering Molten Colossi guard the depths. But darker powers have also claimed this hellscape—armored Stormtroopers march in formation through the scorched halls, while three shadowy figures wielding crimson blades have made this volcanic realm their stronghold: the relentless bounty hunter Boba Fett, the unstable dark warrior Kylo Ren, and the dreaded dark lord Darth Vader himself, who commands from his fortress as molten rivers flow beneath.*
+
+| **Enemy** | **Entry ID** | **Type** |
+|-----------|--------------|----------|
+| Molten War Golem | 8908 | Mob |
+| Lava Reaver | 12100 | Mob |
+| Hellfire Imp | 17477 | Mob |
+| Lava Blaze | 30643 | Mob |
+| Lava Hound | 32237 | Mob |
+| Molten Colossus | 34069 | Mob |
+| Magma Rager | 34086 | Mob |
+| Stormtrooper | 9500643 | Mob |
+| **Narul the Flameseeker** | **888432** | **BOSS (Scripted)** |
+| **Boba Fett** | **9500637** | **BOSS (Scripted)** |
+| **Kylo Ren** | **9500639** | **BOSS (Scripted)** |
+| **Darth Vader** | **9500644** | **BOSS (Scripted)** |
+
+---
+
 ### Newman's Landing
 <a href="JustForLooks/LoadScreenNewmansLanding.png"><img src="JustForLooks/LoadScreenNewmansLanding.png" width="200"></a>
 > *At Newman's Landing, the Deadwood tribe, led by Chieftain Coldpaw and Overlord Rigto, stands ready to defend their cursed land. Warriors, Pathfinders, and Shamans gather, while Avenger's thirst for vengeance echoes through the woods. The once peaceful area now teems with malevolent forces, as the Deadwood seek to expand their dark influence.*
