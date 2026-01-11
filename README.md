@@ -13,6 +13,7 @@
 | [Demon Hunter Cove](#demon-hunter-cove) | X: 9648.030273 Y: -208.490005 Z: 21.402897 O: 0.441980 | 901 | `.go xyz 9648.030273 -208.490005 21.402897 901` | 83-85 | O (WIP, need to remove map fatigue)|
 | [Elwynn Falls](#elwynn-falls) | X: -8325.285156 Y: -340.285370 Z: 145.863403 O: 6.022076 | 907 | `.go xyz -8325.285156 -340.285370 145.863403 907` | 82-85 | X |
 | [Forgotten Gnome Camp](#forgotten-gnome-camp) | X: -5931.078613 Y: 986.903076 Z: 488.972839 O:4.873131 | 909 | `.go xyz -5931.078613 986.903076 488.972839 909` | 83-85 | X |
+| [Mustafar](#mustafar) | X: 12822 Y: 15262.3 Z: 18.5815 O: 0 | 805 | `.go xyz 12822 15262.3 18.5815 805` | 55-85 | X |
 | [Newman's Landing](#newmans-landing) | X: -6377.274902 Y: -847.213379 Z: 396.180176 O: 6.048255 | 910 | `.go xyz -6377.274902 -847.213379 396.180176 910` | 83-85 | X |
 | [Quel'Thalas Island](#quelthalas-island) | X: 4239.342285 Y: -2683.871338 Z: 5.781008 O: 4.806246 | 908 | `.go xyz 4239.342285 -2683.871338 5.781008 908` | 83-85 | X |
 | [Sandfury Delve](#sandfury-delve) | X: -12965.552734 Y: -1277.645020 Z: 45.990704 O: 4.002834 | 905 | `.go xyz -12965.552734 -1277.645020 45.990704 905` | 82-84 | X |
@@ -131,6 +132,28 @@
 | Rockjaw Brawler          | 600678       | Mob      |
 | **Grurvuch**             | **600679**   | **BOSS (Scripted)** |
 | **Scervig**              | **600680**   | **BOSS (Scripted)** |
+---
+
+### Mustafar
+<a href="JustForLooks/LoadScreenMustafar.png"><img src="JustForLooks/LoadScreenMustafar.png" width="200"></a>
+
+> *Within the molten depths of Mustafar, the ancient elemental lord Narul the Flameseeker commands an army of Molten War Golems, Lava Reavers, and Magma Ragers. Hellfire Imps dance among the flames while Lava Hounds prowl the scorched halls. But darker forces have also claimed this volcanic realm—Stormtroopers march in formation alongside three deadly warriors: the bounty hunter Boba Fett, the unstable Kylo Ren, and the dreaded Darth Vader, who rules from his fortress as rivers of fire flow beneath.*
+
+| **Enemy** | **Entry ID** | **Type** |
+|-----------|--------------|----------|
+| Molten War Golem | 8908 | Mob |
+| Lava Reaver | 12100 | Mob |
+| Hellfire Imp | 17477 | Mob |
+| Lava Blaze | 30643 | Mob |
+| Lava Hound | 32237 | Mob |
+| Molten Colossus | 34069 | Mob |
+| Magma Rager | 34086 | Mob |
+| Stormtrooper | 9500643 | Mob |
+| **Narul the Flameseeker** | **888432** | **BOSS (Scripted)** |
+| **Boba Fett** | **9500637** | **BOSS (Scripted)** |
+| **Kylo Ren** | **9500639** | **BOSS (Scripted)** |
+| **Darth Vader** | **9500644** | **BOSS (Scripted)** |
+
 ---
 
 ### Newman's Landing
