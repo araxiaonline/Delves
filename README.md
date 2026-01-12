@@ -1,6 +1,11 @@
+# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) Azeroth Core Module
 [![AzerothCore](https://img.shields.io/badge/AzerothCore-supported-brightgreen?logo=worldofwarcraft&style=flat)](https://www.azerothcore.org/)
 [![Eluna](https://img.shields.io/badge/Eluna-supported-brightgreen?logo=lua&style=flat)](https://github.com/ElunaLuaEngine/Eluna)
 
+<p align="left">
+  <img src="https://github.com/araxiaonline/docs/blob/main/docs/media/logo-sm.png?raw=true" alt="Araxia Online" width="70" style="vertical-align: middle;"/>
+  <span style="font-size: 20px; vertical-align: middle;" >Developed By Araxia Online</span>
+</p>
 
 # **Single Player Delves for Araxia Online**
 
