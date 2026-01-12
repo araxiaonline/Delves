@@ -1,3 +1,14 @@
+# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) Azeroth Core Module
+[![AzerothCore](https://img.shields.io/badge/AzerothCore-supported-brightgreen?logo=worldofwarcraft&style=flat)](https://www.azerothcore.org/)
+[![Eluna](https://img.shields.io/badge/Eluna-supported-brightgreen?logo=lua&style=flat)](https://github.com/ElunaLuaEngine/Eluna)
+
+<p align="left">
+  <img src="https://github.com/araxiaonline/docs/blob/main/docs/media/logo-sm.png?raw=true" alt="Araxia Online" width="70" style="vertical-align: middle;"/>
+  <span style="font-size: 20px; vertical-align: middle;" >Developed By Araxia Online</span>
+</p>
+
+[Installation](#Prerequisites)
+
 # **Single Player Delves for Araxia Online**
 
 > *In Araxia, Delves are exciting, action-packed areas where players can dive into dangerous, monster-filled dungeons, ancient ruins, and hostile environments. These delves are designed for both solo and group play, offering intense combat with a variety of enemies and challenging bosses. Players will face off against increasingly tough foes, collect valuable loot, and experience fast-paced gameplay in unique settings.*
@@ -283,5 +294,119 @@
 | 900 | Stonetalon Ruins | Dark Iron Mole Machine | 186763 |
 | 900 | Stonetalon Ruins | Highland Mixed School | 182957 |
 | 900 | Stonetalon Ruins | Strange Pool | 184845 |
+
+---
+
+## 📦 Installation
+
+### Prerequisites
+- AzerothCore server (latest version)
+- Access to your world database
+- Eluna Lua Engine installed
+- WoW Client (3.3.5a WotLK)
+- [WDBX Editor](https://github.com/WowDevTools/WDBXEditor) (for DBC files)
+
+---
+
+### Step 1: SQL Database Files
+
+Import all SQL files into your `acore_world` database using HeidiSQL, MySQL Workbench, or your preferred database tool.
+
+**Files to import:**
+- Altar of Storms.sql
+- Arathi Farmland Highlands.sql
+- Blackchar Cave.sql
+- Demon Hunter Cove (WIP).sql
+- Elwynn Falls.sql
+- Forgotten Gnome Camp.sql
+- Mustafar.sql
+- Newmans Landing.sql
+- Quelthalas Island.sql
+- Sandfury Delve.sql
+- Stonetalon Logging Camp.sql
+- Stonetalon Ruins.sql
+- Gameobjects.sql
+- creature_template_resistance.sql
+
+---
+
+### Step 2: Lua Scripts (Boss Mechanics)
+
+Copy all Lua scripts from the `lua_scripts` folder to your server's Eluna scripts directory.
+
+**Typical locations:**
+- Linux: `/home/azerothcore/lua_scripts/`
+- Windows: `C:\AzerothCore\lua_scripts\`
+
+---
+
+### Step 3: DBC Files
+
+**You need to convert CSV files to DBC format:**
+
+1. Download and install [WDBX Editor](https://github.com/WowDevTools/WDBXEditor)
+2. Open WDBX Editor
+3. Import each CSV file from the `DBFilesClient` folder
+4. Export each file as `.dbc` format
+5. Copy the exported `.dbc` files to:
+   - **Server:** `server/data/dbc/`
+   - **Client:** `WoW/Data/enUS/DBFilesClient/`
+
+**Note:** Both server and client need the same DBC files installed.
+
+---
+
+### Step 4: Server Map Files
+
+Copy the following directories to your server's data folder:
+
+- `world/maps/` → `server/data/maps/`
+- `world/mmaps/` → `server/data/mmaps/`
+- `world/vmaps/` → `server/data/vmaps/`
+
+---
+
+### Step 5: Client Files (Players)
+
+Players need to install these files to their WoW client:
+
+**DBC Files:**
+- Copy exported `.dbc` files
+
+**Loading Screens:**
+- Copy `Interface/Glues/LoadingScreens/`
+
+**Minimaps:**
+- Copy `textures/minimap/`
+
+**Sounds:**
+- Copy `Sound/Delves/`
+
+**Star Wars Content (Optional):**
+- Copy `starwars/`
+
+---
+
+### Step 6: Restart Server
+
+Restart your worldserver for all changes to take effect.
+
+---
+
+## 📋 File Locations Summary
+
+**Server Side:**
+- SQL files → Import to `acore_world` database
+- Lua scripts → `server/lua_scripts/`
+- Map files → `server/data/maps/`, `mmaps/`, `vmaps/`
+- DBC files → `server/data/dbc/`
+
+**Client Side:**
+- DBC files → `WoW/Data/enUS/DBFilesClient/`
+- Loading screens → `WoW/Interface/Glues/LoadingScreens/`
+- Minimaps → `WoW/textures/minimap/`
+- Sounds → `WoW/Sound/Delves/`
+
+
 
 
