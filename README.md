@@ -7,7 +7,7 @@
   <span style="font-size: 20px; vertical-align: middle;" >Developed By Araxia Online</span>
 </p>
 
-[Installation](#installation)
+[Installation](#Prerequisites)
 
 # **Single Player Delves for Araxia Online**
 
