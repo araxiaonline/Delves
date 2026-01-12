@@ -371,19 +371,19 @@ Copy the following directories to your server's data folder:
 Players need to install these files to their WoW client:
 
 **DBC Files:**
-- Copy exported `.dbc` files to `WoW/Data/enUS/DBFilesClient/`
+- Copy exported `.dbc` files
 
 **Loading Screens:**
-- Copy `Interface/Glues/LoadingScreens/` to `WoW/Interface/Glues/LoadingScreens/`
+- Copy `Interface/Glues/LoadingScreens/`
 
 **Minimaps:**
-- Copy `textures/minimap/` to `WoW/textures/minimap/`
+- Copy `textures/minimap/`
 
 **Sounds:**
-- Copy `Sound/Delves/` to `WoW/Sound/Delves/`
+- Copy `Sound/Delves/`
 
 **Star Wars Content (Optional):**
-- Copy `starwars/` to `WoW/starwars/`
+- Copy `starwars/`
 
 ---
 
