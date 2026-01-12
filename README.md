@@ -295,6 +295,7 @@
 | 900 | Stonetalon Ruins | Highland Mixed School | 182957 |
 | 900 | Stonetalon Ruins | Strange Pool | 184845 |
 
+---
 
 ## 📦 Installation
 
