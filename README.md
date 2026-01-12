@@ -1,3 +1,7 @@
+[![AzerothCore](https://img.shields.io/badge/AzerothCore-supported-brightgreen?logo=worldofwarcraft&style=flat)](https://www.azerothcore.org/)
+[![Eluna](https://img.shields.io/badge/Eluna-supported-brightgreen?logo=lua&style=flat)](https://github.com/ElunaLuaEngine/Eluna)
+
+
 # **Single Player Delves for Araxia Online**
 
 > *In Araxia, Delves are exciting, action-packed areas where players can dive into dangerous, monster-filled dungeons, ancient ruins, and hostile environments. These delves are designed for both solo and group play, offering intense combat with a variety of enemies and challenging bosses. Players will face off against increasingly tough foes, collect valuable loot, and experience fast-paced gameplay in unique settings.*
